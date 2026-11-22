@@ -10,9 +10,29 @@
 --bg:#0b0e14;--card:#141925;--line:#232b3b;--tx:#e8ecf4;--mut:#8a94a8;--acc:#f7931a;--red:#ef5350;--blue:#4da3ff;--grn:#3ddc84}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",sans-serif;line-height:1.5}
-.wrap{max-width:1100px;margin:0 auto;padding:16px 16px 96px}
-.banner{height:clamp(110px,18vw,170px);border-radius:14px;border:1px solid #5a4528;margin-bottom:16px;display:flex;align-items:flex-end;justify-content:flex-start;background:#1a1408}
+.wrap{max-width:1100px;margin:0 auto;padding:16px 16px 40px}
+
+/* 상단 헤더 & 1시 방향 옛날 네이버 카페 감성 미니 BGM 위젯 */
+.topbar{display:flex;gap:12px;align-items:stretch;margin-bottom:16px}
+@media(max-width:860px){.topbar{flex-direction:column}}
+.banner{flex:1;height:clamp(110px,18vw,170px);border-radius:14px;border:1px solid #5a4528;display:flex;align-items:flex-end;justify-content:flex-start;background:#1a1408;min-width:0}
 .banner h1{margin:0 0 12px 16px;font-family:"Josefin Sans",sans-serif;font-size:clamp(24px,4vw,36px);letter-spacing:1px}
+
+.cafe-bgm{width:258px;flex-shrink:0;background:#131824;border:1px solid #2b354b;border-radius:10px;padding:8px 10px;display:flex;flex-direction:column;justify-content:space-between;box-shadow:inset 0 1px 0 rgba(255,255,255,.04)}
+@media(max-width:860px){.cafe-bgm{width:100%}}
+.cafe-bgm-top{display:flex;align-items:center;justify-content:space-between;gap:6px;padding-bottom:5px;border-bottom:1px dotted #323e57;font-size:11px}
+.cafe-badge{color:#ffd166;font-weight:700;letter-spacing:-.2px}
+.cafe-state{color:#9fb0cc;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:145px}
+.cafe-track-line{margin:5px 0;padding:4px 6px;background:#0b0f18;border:1px solid #20293b;border-radius:6px;font-size:11px;color:#e6edf7;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cafe-btns{display:flex;gap:4px}
+.cafe-btn{flex:1;background:#1c2436;color:#dce4f2;border:1px solid #303d57;border-radius:5px;padding:3px 5px;font-size:10px;cursor:pointer}
+.cafe-btn:hover{border-color:var(--acc);color:#fff}
+.cafe-btn.stop{color:#ff9b99;border-color:#5c2b2f}
+.cafe-list{margin-top:5px;display:flex;flex-direction:column;gap:2px;max-height:54px;overflow-y:auto}
+.cafe-item{background:transparent;color:#93a1b8;border:none;border-radius:4px;padding:2px 5px;font-size:10px;text-align:left;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cafe-item:hover{background:#192030;color:#fff}
+.cafe-item.active{background:#2a2112;color:#ffb74d;font-weight:700}
+
 .grid{display:grid;grid-template-columns:1.65fr 1fr;gap:16px;align-items:start}
 @media(max-width:860px){.grid{grid-template-columns:1fr}}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:16px}
@@ -28,7 +48,7 @@ body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","App
 .d{font-weight:700;font-size:11px;display:block;margin-bottom:2px}
 .ev{display:block;color:#0b0e14;font-weight:700;font-size:10px;border-radius:4px;padding:1px 4px;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .legend{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px;font-size:11px;color:var(--mut)}
-.legend i{display:inline-block;width:100%;width:10px;height:10px;border-radius:2px;margin-right:4px;vertical-align:middle}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:4px;vertical-align:middle}
 .evlist{margin-top:10px;font-size:12px;display:grid;gap:4px}
 .evlist i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}
 .note{margin-top:10px;font-size:11px;color:var(--mut)}
@@ -64,24 +84,28 @@ body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","App
 .tm-row2>.tm-tile{flex:1}
 .tm-mini-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;flex:1.1;min-height:0}
 .tm-mini{border-radius:3px;padding:3px;font-size:9px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;color:rgba(255,255,255,.9);border:1px solid rgba(0,0,0,.25)}
-
-.bgm-dock{position:fixed;left:50%;transform:translateX(-50%);bottom:14px;z-index:60;width:min(760px,calc(100% - 24px));
-background:#121722;border:1px solid #2b354b;border-radius:14px;padding:10px 14px;box-shadow:0 12px 30px rgba(0,0,0,.55)}
-.bgm-top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px}
-.bgm-now{font-size:13px;font-weight:700}
-.bgm-now span{color:var(--mut);font-weight:400;margin-left:6px;font-size:11px}
-.bgm-ctrls{display:flex;gap:6px;flex-wrap:wrap}
-.bgm-btn{background:#1b2334;color:var(--tx);border:1px solid #2e3a52;border-radius:8px;padding:5px 10px;font-size:12px;cursor:pointer}
-.bgm-btn:hover{border-color:var(--acc)}
-.bgm-btn.stop{border-color:var(--red);color:#ff9492}
-.bgm-list{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;padding-top:8px;border-top:1px solid #1e2638}
-.bgm-item{background:#0c1018;color:var(--mut);border:1px solid #1d2536;border-radius:999px;padding:4px 10px;font-size:11px;cursor:pointer}
-.bgm-item.active{color:#0b0e14;background:var(--acc);border-color:var(--acc);font-weight:700}
 </style>
 </head>
 <body>
 <div class="wrap">
-<div class="banner"><h1>1000_bsv</h1></div>
+<div class="topbar">
+  <div class="banner"><h1>1000_bsv</h1></div>
+
+  <div class="cafe-bgm" aria-label="1시 방향 미니 BGM 플레이어">
+    <div class="cafe-bgm-top">
+      <span class="cafe-badge">♪ 카페 BGM</span>
+      <span class="cafe-state" id="bgmStatus">정지됨 · 수동</span>
+    </div>
+    <div class="cafe-track-line" id="bgmNowTitle">선택된 곡 없음 (자동재생 OFF)</div>
+    <div class="cafe-btns">
+      <button type="button" class="cafe-btn" id="bgmPlay">▶ 재생</button>
+      <button type="button" class="cafe-btn" id="bgmNext">⏭ 다음</button>
+      <button type="button" class="cafe-btn stop" id="bgmStop">⏹ 끄기</button>
+    </div>
+    <div class="cafe-list" id="bgmPlaylist"></div>
+  </div>
+</div>
+<audio id="bgmPlayer" preload="none"></audio>
 
 <div class="grid">
   <div>
@@ -115,7 +139,7 @@ background:#121722;border:1px solid #2b354b;border-radius:14px;padding:10px 14px
     </svg>
     <div class="val" id="gv">--</div>
     <div class="lbl" id="gl"></div>
-    <div class="note" id="fngnote">샘플 값입니다(최근 &lsquo;극단적 공포&rsquo; 구간). 정확한 수치는 버튼으로 확인하세요.</div>
+    <div class="note" id="fngnote">alternative.me 지수 동기화 중...</div>
     <a class="btn" style="display:inline-block;margin-top:10px" href="https://alternative.me/crypto/fear-and-greed-index/" target="_blank" rel="noopener">실시간 지수 보기 →</a>
 
     <div class="metrics">
@@ -125,7 +149,7 @@ background:#121722;border:1px solid #2b354b;border-radius:14px;padding:10px 14px
       </div>
       <div class="m-box">
         <div class="k">나스닥 선물 (24h)</div>
-        <div class="v" id="nqPrice">-- <span class="fl" id="nqChg"></span></div>
+        <div class="v" id="nqPrice"><span class="fl">피드 대기</span></div>
       </div>
       <div class="m-box">
         <div class="k">비트코인 김치프리미엄</div>
@@ -133,7 +157,7 @@ background:#121722;border:1px solid #2b354b;border-radius:14px;padding:10px 14px
       </div>
       <div class="m-box">
         <div class="k">알트코인지수</div>
-        <div class="v" id="altIdx">--</div>
+        <div class="v" id="altIdx"><span class="fl">피드 대기</span></div>
       </div>
     </div>
   </section>
@@ -159,19 +183,6 @@ background:#121722;border:1px solid #2b354b;border-radius:14px;padding:10px 14px
   </div>
 </div>
 </div>
-
-<div class="bgm-dock" aria-label="배경음악 플레이어">
-  <div class="bgm-top">
-    <div class="bgm-now" id="bgmStatus">정지됨 · 플레이리스트에서 곡을 선택하세요<span>(입장 시 자동재생 꺼짐)</span></div>
-    <div class="bgm-ctrls">
-      <button type="button" class="bgm-btn" id="bgmPlay">▶ 재생</button>
-      <button type="button" class="bgm-btn" id="bgmNext">⏭ 다음 곡</button>
-      <button type="button" class="bgm-btn stop" id="bgmStop">⏹ 끄기</button>
-    </div>
-  </div>
-  <div class="bgm-list" id="bgmPlaylist"></div>
-</div>
-<audio id="bgmPlayer" preload="none"></audio>
 
 <script>
 var T={jobs:["고용지표","#b794f6"],cpi:["CPI","#f7b731"],ppi:["PPI","#5ee27a"],pce:["PCE","#4da3ff"],fomc:["FOMC","#ef5350"],boj:["BOJ","#ff6fa5"],etc:["GDP·소매판매","#9aa3b5"]};
@@ -234,15 +245,50 @@ document.getElementById("today").onclick=function(){cy=now.getFullYear();cm=now.
 document.getElementById("legend").innerHTML=Object.keys(T).map(function(k){return'<span><i style="background:'+T[k][1]+'"></i>'+T[k][0]+"</span>"}).join("");
 render();
 
-/* 공포탐욕지수 게이지 */
-function gauge(v){
+/* 공포탐욕지수 게이지 (alternative.me API 직접 연동 + 폴백) */
+function mapFngLabel(v,rawLab){
+  if(v<25)return"극단적 공포";
+  if(v<45)return"공포";
+  if(v<55)return"중립";
+  if(v<75)return"탐욕";
+  return"극단적 탐욕";
+}
+function gauge(v,lab){
   var col=v<25?"#ef5350":v<45?"#f7931a":v<55?"#f7d94a":v<75?"#9be15d":"#3ddc84";
-  var lab=v<25?"극단적 공포":v<45?"공포":v<55?"중립":v<75?"탐욕":"극단적 탐욕";
+  var label=lab||mapFngLabel(v);
   var arc=document.getElementById("arc");arc.setAttribute("stroke",col);arc.setAttribute("stroke-dasharray",(v/100*251.3)+" 252");
   var gv=document.getElementById("gv");gv.textContent=v;gv.style.color=col;
-  document.getElementById("gl").textContent=lab;
+  document.getElementById("gl").textContent=label;
 }
-gauge(14);
+gauge(14,"극단적 공포");
+
+function ago(ts){var m=Math.max(0,Math.round((Date.now()-ts)/60000));return m<60?m+"분 전":m<1440?Math.round(m/60)+"시간 전":Math.round(m/1440)+"일 전"}
+
+function fetchWithTimeout(url,ms){
+  var ctrl=typeof AbortController!=="undefined"?new AbortController():null;
+  var timer=ctrl?setTimeout(function(){ctrl.abort();},ms||5000):null;
+  return fetch(url,ctrl?{signal:ctrl.signal}:{}).then(function(r){
+    if(timer)clearTimeout(timer);
+    return r.ok?r.json():null;
+  }).catch(function(){
+    if(timer)clearTimeout(timer);
+    return null;
+  });
+}
+
+function refreshAlternativeFng(){
+  fetchWithTimeout("https://api.alternative.me/fng/?limit=2",5000).then(function(res){
+    if(!res||!Array.isArray(res.data)||!res.data[0])return;
+    var cur=res.data[0];
+    var prev=res.data[1];
+    var val=parseInt(cur.value,10);
+    if(isNaN(val))return;
+    gauge(val,mapFngLabel(val,cur.value_classification));
+    var tsMs=cur.timestamp?parseInt(cur.timestamp,10)*1000:Date.now();
+    var prevTxt=prev&&prev.value!=null?" · 어제 "+prev.value:"";
+    document.getElementById("fngnote").textContent="alternative.me 실시간 · "+ago(tsMs)+prevTxt;
+  });
+}
 
 function fmtPct(p){
   if(typeof p!=="number"||isNaN(p))return{txt:"",cls:"fl"};
@@ -365,18 +411,6 @@ document.querySelectorAll(".hm-tab").forEach(function(btn){
 });
 renderTreemap();
 
-function fetchWithTimeout(url,ms){
-  var ctrl=typeof AbortController!=="undefined"?new AbortController():null;
-  var timer=ctrl?setTimeout(function(){ctrl.abort();},ms||5000):null;
-  return fetch(url,ctrl?{signal:ctrl.signal}:{}).then(function(r){
-    if(timer)clearTimeout(timer);
-    return r.ok?r.json():null;
-  }).catch(function(){
-    if(timer)clearTimeout(timer);
-    return null;
-  });
-}
-
 function refreshMarkets(){
   Promise.all([
     fetchWithTimeout("https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT",5000),
@@ -432,16 +466,15 @@ function refreshMarkets(){
   });
 }
 
-/* 자동 갱신: 같은 폴더의 data.json(15분마다 자동 생성)이 있으면 공포탐욕지수와 기사를 실시간 값으로 교체.
-   없으면(미리보기 등) 위의 샘플/스냅샷을 그대로 둡니다. */
-function ago(ts){var m=Math.max(0,Math.round((Date.now()-ts)/60000));return m<60?m+"분 전":m<1440?Math.round(m/60)+"시간 전":Math.round(m/1440)+"일 전"}
+/* 같은 폴더의 data.json이 있으면 나스닥 선물·알트코인지수·공포탐욕지수·기사를 반영 */
 function loadData(){
-  fetch("data.json?"+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+  fetchWithTimeout("data.json?"+Date.now(),5000).then(function(d){
+    if(!d)return;
     if(d.fng&&typeof d.fng.value==="number"){
-      gauge(d.fng.value);
+      gauge(d.fng.value,mapFngLabel(d.fng.value));
       document.getElementById("fngnote").textContent="alternative.me 기준 · "+ago(d.fng.ts)+(d.fng.prev!=null?" · 어제 "+d.fng.prev:"");
     }
-    if(d.nasdaq){
+    if(d.nasdaq&&d.nasdaq.price!=null){
       var nc=fmtPct(d.nasdaq.chg);
       document.getElementById("nqPrice").innerHTML=Number(d.nasdaq.price).toLocaleString("en-US",{maximumFractionDigits:2})+' <span class="'+nc.cls+'">'+nc.txt+"</span>";
     }
@@ -459,12 +492,14 @@ function loadData(){
       });
       document.getElementById("newshead").textContent="코인 기사 (자동 갱신 · "+ago(Date.parse(d.updated))+" 업데이트)";
     }
-  }).catch(function(){});
+  });
 }
+
+refreshAlternativeFng();setInterval(refreshAlternativeFng,300000);
 refreshMarkets();setInterval(refreshMarkets,30000);
 loadData();setInterval(loadData,300000);
 
-/* BGM 플레이리스트: 페이지 접속 시 자동 재생하지 않고 정지 상태로 대기 */
+/* 1시 방향 카페 감성 BGM 플레이리스트: 입장 시 자동 재생하지 않고 정지 상태로 대기 */
 var PLAYLIST=[
   {title:"NCS Track 01",src:"bgm/track1.mp3"},
   {title:"NCS Track 02",src:"bgm/track2.mp3"},
@@ -473,6 +508,7 @@ var PLAYLIST=[
 var curTrack=0,isStopped=true;
 var player=document.getElementById("bgmPlayer");
 var stEl=document.getElementById("bgmStatus");
+var nowEl=document.getElementById("bgmNowTitle");
 var listEl=document.getElementById("bgmPlaylist");
 var playBtn=document.getElementById("bgmPlay");
 
@@ -481,7 +517,7 @@ function syncPlaylistUI(){
   PLAYLIST.forEach(function(tr,idx){
     var btn=document.createElement("button");
     btn.type="button";
-    btn.className="bgm-item"+(!isStopped&&idx===curTrack?" active":"");
+    btn.className="cafe-item"+(!isStopped&&idx===curTrack?" active":"");
     btn.textContent=(idx+1)+". "+tr.title;
     btn.onclick=function(){playTrack(idx);};
     listEl.appendChild(btn);
@@ -493,11 +529,13 @@ function playTrack(idx){
   isStopped=false;
   player.src=PLAYLIST[curTrack].src;
   player.play().then(function(){
-    playBtn.textContent="⏸ 일시정지";
-    stEl.innerHTML="재생 중: "+PLAYLIST[curTrack].title+'<span>('+(curTrack+1)+"/"+PLAYLIST.length+")</span>";
+    playBtn.textContent="⏸ 일시";
+    stEl.textContent="재생중 ("+(curTrack+1)+"/"+PLAYLIST.length+")";
+    nowEl.textContent="♪ "+PLAYLIST[curTrack].title;
     syncPlaylistUI();
   }).catch(function(){
-    stEl.innerHTML="재생 실패: 음원 경로(bgm/) 확인 필요<span>("+PLAYLIST[curTrack].title+")</span>";
+    stEl.textContent="경로확인";
+    nowEl.textContent="! bgm/ 파일 확인 필요 ("+PLAYLIST[curTrack].title+")";
   });
 }
 
@@ -505,13 +543,15 @@ playBtn.onclick=function(){
   if(isStopped||!player.src){playTrack(curTrack);return;}
   if(player.paused){
     player.play().then(function(){
-      playBtn.textContent="⏸ 일시정지";
-      stEl.innerHTML="재생 중: "+PLAYLIST[curTrack].title+'<span>('+(curTrack+1)+"/"+PLAYLIST.length+")</span>";
+      playBtn.textContent="⏸ 일시";
+      stEl.textContent="재생중 ("+(curTrack+1)+"/"+PLAYLIST.length+")";
+      nowEl.textContent="♪ "+PLAYLIST[curTrack].title;
     }).catch(function(){});
   }else{
     player.pause();
     playBtn.textContent="▶ 재생";
-    stEl.innerHTML="일시정지: "+PLAYLIST[curTrack].title+'<span>('+(curTrack+1)+"/"+PLAYLIST.length+")</span>";
+    stEl.textContent="일시정지";
+    nowEl.textContent="❚❚ "+PLAYLIST[curTrack].title;
   }
 };
 
@@ -524,7 +564,8 @@ document.getElementById("bgmStop").onclick=function(){
   player.currentTime=0;
   isStopped=true;
   playBtn.textContent="▶ 재생";
-  stEl.innerHTML='정지됨 · 플레이리스트에서 곡을 선택하세요<span>(입장 시 자동재생 꺼짐)</span>';
+  stEl.textContent="정지됨 · 수동";
+  nowEl.textContent="선택된 곡 없음 (자동재생 OFF)";
   syncPlaylistUI();
 };
 
