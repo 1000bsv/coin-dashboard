@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/fetch-data.mjs
+      - run: node fetch-data.mjs
       - name: save
         run: |
           git config user.name "data-bot"
