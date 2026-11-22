@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T21:12:04.895Z",
+  "updated": "2026-11-22T21:52:01.652Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -12,6 +12,24 @@
   },
   "altseason": 49,
   "news": [
+    {
+      "title": "“비트코인 25만달러 가도 알트코인이 더 오른다”… 란 노이너, 최대 17배 성장 전망",
+      "link": "https://www.blockmedia.co.kr/archives/1169142?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795383668000
+    },
+    {
+      "title": "한전, 고객 개인정보 150만건 유출…주민번호·계좌정보 포함",
+      "link": "https://www.blockmedia.co.kr/archives/1169139?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795382460000
+    },
+    {
+      "title": "엔비디아 23% 폭락·비트코인 6만달러…美 물가 발표 앞두고 금융시장 ‘긴장’",
+      "link": "https://www.blockmedia.co.kr/archives/1169136?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795382336000
+    },
     {
       "title": "[뉴욕 코인시황] 비트코인 6만달러 턱걸이…아서 헤이즈 “다음 시험대는 5만달러”",
       "link": "https://www.blockmedia.co.kr/archives/1169133?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169122?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795346920000
-    },
-    {
-      "title": "정부, 블랙먼데이 대비 ‘증안펀드’ 동원 카드 꺼냈다",
-      "link": "https://www.blockmedia.co.kr/archives/1169116?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795345001000
-    },
-    {
-      "title": "[코인 크라임] 명문대 졸업→골드만삭스 근무→회사 매각…’천재 CEO’의 충격적 정체",
-      "link": "https://www.blockmedia.co.kr/archives/1168548?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795341631000
-    },
-    {
-      "title": "비트코인 6만달러 붕괴…하루 11억달러 강제 청산",
-      "link": "https://www.blockmedia.co.kr/archives/1169095?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795319664000
     },
     {
       "title": "BTC mining network difficulty fails to match token’s price decline",
