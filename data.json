@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:33:55.231Z",
+  "updated": "2026-11-22T23:24:41.220Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 12
   },
   "nasdaq": {
-    "price": 25126.5,
-    "chg": -7.2
+    "price": 25538.5,
+    "chg": -5.68
   },
   "altseason": 49,
   "news": [
+    {
+      "title": "[코인시황] 비트코인, 주말 급락 딛고 6만달러선 회복…추가 반등은 ‘안갯속’",
+      "link": "https://www.blockmedia.co.kr/archives/1169194?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795389453000
+    },
+    {
+      "title": "트럼프 밈코인 99% 폭락…5만5000달러 필요했던 만찬, 이젠 518달러(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1169156?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795388890000
+    },
+    {
+      "title": "금·은·비트코인 동반 급락…골드만삭스 “이번 주 美 증시 806억달러 매도 가능”",
+      "link": "https://www.blockmedia.co.kr/archives/1169154?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795387999000
+    },
     {
       "title": "비트코인 5만5000달러 찍고 반등…4년 주기설에 바닥론 다시 부상",
       "link": "https://www.blockmedia.co.kr/archives/1169148?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169136?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795382336000
-    },
-    {
-      "title": "[뉴욕 코인시황] 비트코인 6만달러 턱걸이…아서 헤이즈 “다음 시험대는 5만달러”",
-      "link": "https://www.blockmedia.co.kr/archives/1169133?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795380491000
-    },
-    {
-      "title": "비트코인과 동기 ‘증안펀드’, 주식시장에 다시 투입 준비(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1169131?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795354052000
-    },
-    {
-      "title": "머스크 “AI 산업, 내년 수천억달러 자금난 직면할 것”",
-      "link": "https://www.blockmedia.co.kr/archives/1169128?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795352630000
     },
     {
       "title": "BTC mining network difficulty fails to match token’s price decline",
