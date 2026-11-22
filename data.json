@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T20:26:31.842Z",
+  "updated": "2026-11-22T21:12:04.895Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -12,6 +12,12 @@
   },
   "altseason": 49,
   "news": [
+    {
+      "title": "[뉴욕 코인시황] 비트코인 6만달러 턱걸이…아서 헤이즈 “다음 시험대는 5만달러”",
+      "link": "https://www.blockmedia.co.kr/archives/1169133?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795380491000
+    },
     {
       "title": "비트코인과 동기 ‘증안펀드’, 주식시장에 다시 투입 준비(종합)",
       "link": "https://www.blockmedia.co.kr/archives/1169131?utm_source=general&utm_medium=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169095?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795319664000
-    },
-    {
-      "title": "중앙은행들 “금고에 둬야 내 자산”…비트코인은 아직 ‘관망’",
-      "link": "https://www.blockmedia.co.kr/archives/1169093?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795317117000
     },
     {
       "title": "BTC mining network difficulty fails to match token’s price decline",
