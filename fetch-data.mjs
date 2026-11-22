@@ -1,4 +1,4 @@
-// 15분마다 자동 실행: 공포탐욕지수 + 코인 기사 제목/링크를 모아서 data.json 으로 저장합니다.
+// 15분마다 자동 실행: 공포탐욕지수 + 나스닥 선물 + 알트코인지수 + 코인 기사를 모아서 data.json 으로 저장합니다.
 import { readFile, writeFile } from "node:fs/promises";
 
 const FEEDS = [
@@ -37,14 +37,62 @@ export function parseFeed(xml, source) {
   return out.sort((a, b) => b.ts - a.ts).slice(0, PER_FEED);
 }
 
-async function get(url) {
+async function get(url, extraHeaders = {}) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), 15000);
   try {
-    const r = await fetch(url, { signal: ctrl.signal, headers: { "User-Agent": "Mozilla/5.0 (coin-dashboard bot)", Accept: "application/rss+xml, application/xml, text/xml, */*" } });
+    const r = await fetch(url, {
+      signal: ctrl.signal,
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        Accept: "application/rss+xml, application/xml, text/xml, application/json, text/html, */*",
+        ...extraHeaders,
+      },
+    });
     if (!r.ok) throw new Error("HTTP " + r.status);
     return await r.text();
   } finally { clearTimeout(t); }
+}
+
+async function fetchNasdaq(fallback) {
+  try {
+    const raw = await get("https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1d&range=5d");
+    const j = JSON.parse(raw);
+    const meta = j?.chart?.result?.[0]?.meta;
+    const price = Number(meta?.regularMarketPrice);
+    const prev = Number(meta?.chartPreviousClose ?? meta?.previousClose);
+    if (!Number.isFinite(price)) throw new Error("가격 값 없음");
+    const chg = Number.isFinite(prev) && prev > 0 ? +(((price - prev) / prev) * 100).toFixed(2) : 0;
+    const out = { price: +price.toFixed(2), chg };
+    console.log("OK   나스닥 선물", out.price, out.chg + "%");
+    return out;
+  } catch (e) {
+    console.log("SKIP 나스닥 선물 -", e.message);
+    return fallback ?? null;
+  }
+}
+
+async function fetchAltseason(fallback) {
+  const sources = [
+    "https://www.blockchaincenter.net/en/altcoin-season-index/",
+    "https://www.coinglass.com/pro/i/alt-coin-index",
+  ];
+  for (const url of sources) {
+    try {
+      const html = await get(url);
+      const m = html.match(/(?:Altcoin\s*Season\s*Index|altseason)[^0-9]{0,80}(\d{1,3})/i);
+      if (m) {
+        const val = parseInt(m[1], 10);
+        if (val >= 0 && val <= 100) {
+          console.log("OK   알트코인지수", val);
+          return val;
+        }
+      }
+    } catch (e) {
+      console.log("SKIP 알트코인지수 (" + url + ") -", e.message);
+    }
+  }
+  return fallback ?? null;
 }
 
 async function main() {
@@ -73,6 +121,13 @@ async function main() {
     console.log("OK   공포탐욕지수", fng.value);
   } catch (e) { console.log("SKIP 공포탐욕지수 -", e.message); }
 
-  await writeFile("data.json", JSON.stringify({ updated: new Date().toISOString(), fng, news }, null, 1));
+  // 나스닥 선물 & 알트코인지수
+  const nasdaq = await fetchNasdaq(old.nasdaq);
+  const altseason = await fetchAltseason(old.altseason);
+
+  await writeFile(
+    "data.json",
+    JSON.stringify({ updated: new Date().toISOString(), fng, nasdaq, altseason, news }, null, 2)
+  );
 }
 if (process.argv[1] && process.argv[1].endsWith("fetch-data.mjs")) main();
