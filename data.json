@@ -1,7 +1,112 @@
 {
-  "updated": "2026-11-23T00:00:00Z",
-  "fng": null,
-  "nasdaq": null,
-  "altseason": null,
-  "news": []
+  "updated": "2026-11-22T17:07:02.422Z",
+  "fng": {
+    "value": 11,
+    "label": "Extreme Fear",
+    "ts": 1795305600000,
+    "prev": 12
+  },
+  "nasdaq": {
+    "price": 25126.5,
+    "chg": -7.2
+  },
+  "altseason": 47,
+  "news": [
+    {
+      "title": "비트코인과 동기 ‘증안펀드’, 주식시장에 다시 투입 준비(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1169131?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795354052000
+    },
+    {
+      "title": "머스크 “AI 산업, 내년 수천억달러 자금난 직면할 것”",
+      "link": "https://www.blockmedia.co.kr/archives/1169128?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795352630000
+    },
+    {
+      "title": "“AI 버블 터졌다” 닷컴 버블 ‘평행이론’ 경기침체 확산?",
+      "link": "https://www.blockmedia.co.kr/archives/1169124?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795350586000
+    },
+    {
+      "title": "비트코인, 美 추수감사절 주간 3대 변수…물가·옵션 만기 주목",
+      "link": "https://www.blockmedia.co.kr/archives/1169122?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795346920000
+    },
+    {
+      "title": "정부, 블랙먼데이 대비 ‘증안펀드’ 동원 카드 꺼냈다",
+      "link": "https://www.blockmedia.co.kr/archives/1169116?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795345001000
+    },
+    {
+      "title": "[코인 크라임] 명문대 졸업→골드만삭스 근무→회사 매각…’천재 CEO’의 충격적 정체",
+      "link": "https://www.blockmedia.co.kr/archives/1168548?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795341631000
+    },
+    {
+      "title": "비트코인 6만달러 붕괴…하루 11억달러 강제 청산",
+      "link": "https://www.blockmedia.co.kr/archives/1169095?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795319664000
+    },
+    {
+      "title": "중앙은행들 “금고에 둬야 내 자산”…비트코인은 아직 ‘관망’",
+      "link": "https://www.blockmedia.co.kr/archives/1169093?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795317117000
+    },
+    {
+      "title": "BTC mining network difficulty fails to match token’s price decline",
+      "link": "https://coingeek.com/btc-mining-network-difficulty-fails-to-match-token-price-decline/",
+      "source": "Coingeek",
+      "ts": 1795176000000
+    },
+    {
+      "title": "From Berlin to Brazil, authorities tighten rules on digital asset",
+      "link": "https://coingeek.com/from-berlin-to-brazil-authorities-tighten-rules-on-digital-asset/",
+      "source": "Coingeek",
+      "ts": 1795168800000
+    },
+    {
+      "title": "Democrats’ message to GOP-loving crypto operators: You’re f***ed",
+      "link": "https://coingeek.com/democrats-message-to-gop-loving-crypto-operators-youre-f-ed/",
+      "source": "Coingeek",
+      "ts": 1795161600000
+    },
+    {
+      "title": "Australia sets course for safer AI innovation",
+      "link": "https://coingeek.com/australia-sets-course-for-safer-ai-innovation/",
+      "source": "Coingeek",
+      "ts": 1795154400000
+    },
+    {
+      "title": "Visa launches threat intelligence platform to strengthen cyber and fraud defense",
+      "link": "https://coingeek.com/visa-launches-threat-intelligence-platform-to-strengthen-cyber-and-fraud-defense/",
+      "source": "Coingeek",
+      "ts": 1795147200000
+    },
+    {
+      "title": "URLs tell us where data is; next web may need to know who owns it",
+      "link": "https://coingeek.com/urls-tell-us-where-data-is-next-web-may-need-to-know-who-owns-it/",
+      "source": "Coingeek",
+      "ts": 1795089600000
+    },
+    {
+      "title": "MENA eyes 9.3% digital spend as Oman, Iraq payments see progress",
+      "link": "https://coingeek.com/mena-eyes-9-3-percent-digital-spend-as-oman-iraq-payments-see-progress/",
+      "source": "Coingeek",
+      "ts": 1795082400000
+    },
+    {
+      "title": "House Dems tell Trumps to preserve crypto files ahead of probe",
+      "link": "https://coingeek.com/house-dems-tell-trumps-to-preserve-crypto-files-ahead-of-probe/",
+      "source": "Coingeek",
+      "ts": 1795075200000
+    }
+  ]
 }
