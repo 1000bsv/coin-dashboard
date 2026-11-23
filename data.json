@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T10:56:19.259Z",
+  "updated": "2026-11-23T11:44:15.740Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26006,
-    "chg": -4.34
+    "price": 26017.5,
+    "chg": -4.3
   },
   "altseason": 55,
   "news": [
+    {
+      "title": "로버트 기요사키 “2008년보다 큰 폭락 온다”…비트코인·이더리움 직접 매수 강조",
+      "link": "https://www.blockmedia.co.kr/archives/1169358?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795433434000
+    },
     {
       "title": "비트코인은 급락, 주가는 반토막인데…세일러 “MSTR 연 34% 수익” 자랑",
       "link": "https://www.blockmedia.co.kr/archives/1169288?utm_source=general&utm_medium=rss",
@@ -65,12 +71,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169301?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795415620000
-    },
-    {
-      "title": "디지털자산기본법 정부안 내일 공개…‘늦어도 내년 1월 통과’ 문턱 넘을까",
-      "link": "https://www.blockmedia.co.kr/archives/1169330?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795415606000
     },
     {
       "title": "Asian stablecoin market grows as Eastern Europe shrinks",
