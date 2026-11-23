@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T20:20:54.434Z",
+  "updated": "2026-11-23T21:15:38.754Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26729,
-    "chg": -1.68
+    "price": 26811.75,
+    "chg": -1.38
   },
-  "altseason": 61,
+  "altseason": 57,
   "news": [
+    {
+      "title": "[뉴욕 코인시황/마감] ‘젠슨 황 효과’에도 비트코인 상승분 반납…6만1000달러대 후퇴",
+      "link": "https://www.blockmedia.co.kr/archives/1169654?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795467632000
+    },
+    {
+      "title": "젠슨 황 복귀에 엔비디아 30% 급등…앤트로픽은 하락, AI 시장 경쟁 우려",
+      "link": "https://www.blockmedia.co.kr/archives/1169635?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795466161000
+    },
+    {
+      "title": "TRUMP 코인 86% 하락…씁쓸한 초호화 만찬",
+      "link": "https://www.blockmedia.co.kr/archives/1169634?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795465570000
+    },
     {
       "title": "캘리포니아 검찰 “젠슨 황 복귀해도 엔비디아 조사 계속”",
       "link": "https://www.blockmedia.co.kr/archives/1169624?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169574?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795460611000
-    },
-    {
-      "title": "비트마인 ETH 7819개 추가 매입…보유 자산 111억달러",
-      "link": "https://www.blockmedia.co.kr/archives/1169547?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795460509000
-    },
-    {
-      "title": "에릭 트럼프의 ABTC, BTC 담보 1.5억달러 대출…주가 25% 급등",
-      "link": "https://www.blockmedia.co.kr/archives/1169616?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795459714000
-    },
-    {
-      "title": "엑스알피 1달러 돌파 후 반락",
-      "link": "https://www.blockmedia.co.kr/archives/1169609?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795458757000
     },
     {
       "title": "Why does every company need to verify you again?",
