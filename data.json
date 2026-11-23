@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T00:06:32.197Z",
+  "updated": "2026-11-23T01:18:24.689Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25815.5,
-    "chg": -4.65
+    "price": 25814.25,
+    "chg": -4.66
   },
   "altseason": 51,
   "news": [
+    {
+      "title": "오픈AI 수석 과학자 “AI 개발 속도 제한해야…통제 불능 위험 커져”",
+      "link": "https://www.blockmedia.co.kr/archives/1169157?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795394791000
+    },
+    {
+      "title": "[개장시황] 코스피, 美 반도체주 급락에 4700선으로…삼전·하이닉스 동반 약세",
+      "link": "https://www.blockmedia.co.kr/archives/1169212?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795393292000
+    },
     {
       "title": "엔비디아 주가 반토막 났는데…구형 AI 반도체 임대료는 60% 급등, 의미는?",
       "link": "https://www.blockmedia.co.kr/archives/1169170?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169146?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795385027000
-    },
-    {
-      "title": "“비트코인 25만달러 가도 알트코인이 더 오른다”… 란 노이너, 최대 17배 성장 전망",
-      "link": "https://www.blockmedia.co.kr/archives/1169142?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795383668000
-    },
-    {
-      "title": "한전, 고객 개인정보 150만건 유출…주민번호·계좌정보 포함",
-      "link": "https://www.blockmedia.co.kr/archives/1169139?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795382460000
     },
     {
       "title": "BTC mining network difficulty fails to match token’s price decline",
