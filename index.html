@@ -25,18 +25,21 @@ body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","App
 .bgm-pop button:hover{background:#1b2334;color:#fff}
 .bgm-pop button.active{color:#ffb74d;font-weight:700}
 
-/* 상단 풀사이즈 배너 (각인된 고화질 banner.jpg) */
+/* 상단 풀사이즈 배너 (각인된 고화질 banner.jpg 원본 비율 유지) */
 .banner {
   position: relative;
   width: 100%;
-  height: clamp(150px, 22vw, 240px);
+  aspect-ratio: 21 / 9;
+  max-height: 230px;
   border-radius: 14px;
   border: 1px solid #3a455c;
   margin-bottom: 16px;
   overflow: hidden;
-  background: #1a1510 url("./banner.jpg") center / cover no-repeat;
+  background: #14110d url("./banner.jpg") center / contain no-repeat;
 }
-
+.banner h1 {
+  display: none;
+}
 .grid{display:grid;grid-template-columns:1.65fr 1fr;gap:16px;align-items:start}
 @media(max-width:860px){.grid{grid-template-columns:1fr}}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:16px}
@@ -102,8 +105,7 @@ body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","App
   </div>
   <audio id="bgmPlayer" preload="none"></audio>
 
-  <div class="banner"><h1>1000_bsv investment</h1></div>
-
+  <div class="banner"></div>
 <div class="grid">
   <div>
   <section class="card">
