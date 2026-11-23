@@ -563,23 +563,28 @@ function setTodayVisits(count) {
   el.innerHTML = "Today <b>" + (isFinite(n) && n >= 0 ? Math.floor(n) : "--") + "</b>";
 }
 
-// 한국시간(KST) 기준 오늘 날짜 키 생성 (예: 20261123)
-var kstDate = new Date(Date.now() + 9 * 3600000).toISOString().slice(0, 10).replace(/-/g, "");
-var apiUrl = "https://api.counterapi.dev/v1/1000bsv-dashboard/today-" + kstDate + "/up";
+(function loadTodayVisits() {
+  var kstDate = new Date(Date.now() + 9 * 3600000).toISOString().slice(0, 10).replace(/-/g, "");
+  var url1 = "https://api.counterapi.dev/v1/1000bsv-dashboard/today-" + kstDate + "/up";
+  var url2 = "https://abacus.jasoncameron.dev/hit/1000bsv-dashboard/today-" + kstDate;
 
-fetch(apiUrl)
-  .then(function(response) {
-    if (!response.ok) throw new Error("HTTP " + response.status);
-    return response.json();
-  })
-  .then(function(data) {
-    if (data && typeof data.count === "number") {
-      setTodayVisits(data.count);
-    }
-  })
-  .catch(function(err) {
-    console.warn("방문자 카운터 로드 실패:", err);
-  });
+  fetch(url1)
+    .then(function(r) { if (!r.ok) throw new Error(); return r.json(); })
+    .then(function(d) {
+      if (d && typeof d.count === "number") setTodayVisits(d.count);
+      else throw new Error();
+    })
+    .catch(function() {
+      fetch(url2)
+        .then(function(r) { if (!r.ok) throw new Error(); return r.json(); })
+        .then(function(d) {
+          if (d && typeof d.value === "number") setTodayVisits(d.value);
+        })
+        .catch(function(err) {
+          console.warn("카운터 API 응답 없음:", err);
+        });
+    });
+})();
 </script>
 </body>
 </html>
