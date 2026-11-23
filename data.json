@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T14:15:08.577Z",
+  "updated": "2026-11-23T15:21:09.696Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,40 +7,58 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26878.5,
-    "chg": -1.13
+    "price": 26785,
+    "chg": -1.48
   },
-  "altseason": 57,
+  "altseason": 53,
   "news": [
     {
-      "title": "1650분의 1 뚫고…개인 채굴자, 비트코인 19만달러 잭팟",
-      "link": "https://www.blockmedia.co.kr/archives/1169469?utm_source=general&utm_medium=rss",
+      "title": "피터 시프 정조준…”젠슨 황 복직은 기업 윤리의 붕괴”",
+      "link": "https://www.blockmedia.co.kr/archives/1169530?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795442019000
+      "ts": 1795447083000
     },
     {
-      "title": "XRP 0.93달러 반등…12월 추가 하락 경고",
-      "link": "https://www.blockmedia.co.kr/archives/1169460?utm_source=general&utm_medium=rss",
+      "title": "미 의회 강경파, 젠슨 황 복귀에 반발… “국가안보 위험 없다는 근거 대라”",
+      "link": "https://www.blockmedia.co.kr/archives/1169529?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795441303000
+      "ts": 1795446995000
     },
     {
-      "title": "[뉴욕 개장 전] 기술주 폭락 부진 딛고 선물 급등…엔비디아 6% 반등·나스닥 3%↑",
-      "link": "https://www.blockmedia.co.kr/archives/1169458?utm_source=general&utm_medium=rss",
+      "title": "젠슨 황 11일 만에 전격 복귀⋯ 월가 환호에 엔비디아 33% 폭등(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1169517?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795441002000
+      "ts": 1795446098000
     },
     {
-      "title": "스트래티지, 비트코인 457개 추가 매입…85만개 보유",
-      "link": "https://www.blockmedia.co.kr/archives/1169447?utm_source=general&utm_medium=rss",
+      "title": "엔비디아 훈풍 탄 비트코인 6.3만달러 회복…숏 스퀴즈 폭발(상보)",
+      "link": "https://www.blockmedia.co.kr/archives/1169512?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795440193000
+      "ts": 1795446032000
     },
     {
-      "title": "메타 AI 수장 “초지능 도래, 향후 1년이 분수령…다양한 분야 연구 가속할 것”",
-      "link": "https://www.blockmedia.co.kr/archives/1169386?utm_source=general&utm_medium=rss",
+      "title": "젠슨 황 복귀에 월가 환호…뉴욕증시 일제히 랠리(상보)",
+      "link": "https://www.blockmedia.co.kr/archives/1169509?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795437018000
+      "ts": 1795445603000
+    },
+    {
+      "title": "[속보] 젠슨 황 “엔비디아로 돌아와 영광이다”",
+      "link": "https://www.blockmedia.co.kr/archives/1169507?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795445043000
+    },
+    {
+      "title": "[속보] 비트코인 6만3000달러 돌파",
+      "link": "https://www.blockmedia.co.kr/archives/1169494?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795443932000
+    },
+    {
+      "title": "[속보] 젠슨 황, 해임 2주 만에 엔비디아 CEO 전격 복귀",
+      "link": "https://www.blockmedia.co.kr/archives/1169482?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795443454000
     },
     {
       "title": "Why does every company need to verify you again?",
@@ -49,28 +67,10 @@
       "ts": 1795435200000
     },
     {
-      "title": "로버트 기요사키 “2008년보다 큰 폭락 온다”…비트코인·이더리움 직접 매수 강조",
-      "link": "https://www.blockmedia.co.kr/archives/1169358?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795433434000
-    },
-    {
-      "title": "비트코인은 급락, 주가는 반토막인데…세일러 “MSTR 연 34% 수익” 자랑",
-      "link": "https://www.blockmedia.co.kr/archives/1169288?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795429827000
-    },
-    {
       "title": "Fund the facts: Maria Ressa on credible journalism in the AI age",
       "link": "https://coingeek.com/fund-the-facts-maria-ressa-on-credible-journalism-in-the-ai-age/",
       "source": "Coingeek",
       "ts": 1795428000000
-    },
-    {
-      "title": "[퇴근길시황] 코스피 4700선 턱걸이⋯비트코인 6.1만달러 반등에도 ETF 이탈",
-      "link": "https://www.blockmedia.co.kr/archives/1169396?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795424427000
     },
     {
       "title": "Pet rock vs the agentic revolution?",
