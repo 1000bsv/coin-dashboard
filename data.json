@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T02:30:56.534Z",
+  "updated": "2026-11-23T03:37:48.812Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25735,
-    "chg": -4.95
+    "price": 25859.25,
+    "chg": -4.49
   },
   "altseason": 51,
   "news": [
+    {
+      "title": "“대체 바닥은 어디” 코스피, 2거래일 연속 매도 사이드카…4600선 붕괴",
+      "link": "https://www.blockmedia.co.kr/archives/1169283?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795404555000
+    },
+    {
+      "title": "[K코인마켓] 코인값 떨어져도 거래는 늘었다…업비트 점유율 50% 턱걸이, 빗썸 37% ‘추격’",
+      "link": "https://www.blockmedia.co.kr/archives/1169263?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795402900000
+    },
+    {
+      "title": "나스닥 선물 반등에도 아시아 증시 급락…각국 정부 ‘긴급 방어’ 나서",
+      "link": "https://www.blockmedia.co.kr/archives/1169250?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795401056000
+    },
     {
       "title": "비트코인 ‘레버리지 대청소’…바이낸스 미결제약정 고점 대비 40% 급감",
       "link": "https://www.blockmedia.co.kr/archives/1169236?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169194?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795389453000
-    },
-    {
-      "title": "트럼프 밈코인 99% 폭락…5만5000달러 필요했던 만찬, 이젠 518달러(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1169156?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795388890000
-    },
-    {
-      "title": "금·은·비트코인 동반 급락…골드만삭스 “이번 주 美 증시 806억달러 매도 가능”",
-      "link": "https://www.blockmedia.co.kr/archives/1169154?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795387999000
-    },
-    {
-      "title": "비트코인 5만5000달러 찍고 반등…4년 주기설에 바닥론 다시 부상",
-      "link": "https://www.blockmedia.co.kr/archives/1169148?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795386683000
     },
     {
       "title": "BTC mining network difficulty fails to match token’s price decline",
