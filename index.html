@@ -25,21 +25,10 @@ body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","App
 .bgm-pop button:hover{background:#1b2334;color:#fff}
 .bgm-pop button.active{color:#ffb74d;font-weight:700}
 
-/* 상단 풀사이즈 배너 (각인된 고화질 banner.jpg 원본 비율 유지) */
-.banner {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 21 / 9;
-  max-height: 230px;
-  border-radius: 14px;
-  border: 1px solid #3a455c;
-  margin-bottom: 16px;
-  overflow: hidden;
-  background: #14110d url("./banner.jpg") center / contain no-repeat;
-}
-.banner h1 {
-  display: none;
-}
+/* 상단 풀사이즈 배너 (각인된 고화질 banner.jpg 원본 비율 유지, 잘림 최소화) */
+.banner{position:relative;width:100%;aspect-ratio:21 / 9;max-height:460px;border-radius:14px;border:1px solid #3a455c;margin-bottom:16px;overflow:hidden;background:#14110d url("./banner.jpg") center / contain no-repeat}
+.banner h1,.banner::after{display:none !important}
+
 .grid{display:grid;grid-template-columns:1.65fr 1fr;gap:16px;align-items:start}
 @media(max-width:860px){.grid{grid-template-columns:1fr}}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:16px}
@@ -75,7 +64,6 @@ body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","App
 .link{display:flex;justify-content:space-between;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px;color:var(--tx);text-decoration:none}
 .link:hover{border-color:var(--acc)}
 .link small{color:var(--mut)}
-
 /* 히트맵(24시간) 트리맵 스타일 */
 .hm-title{margin:0 0 10px;font-size:16px;font-weight:800}
 .hm-tabs{display:inline-flex;background:#101520;border:1px solid #232c3e;border-radius:12px;padding:3px;gap:2px;margin-bottom:10px;flex-wrap:wrap}
