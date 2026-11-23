@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:18:46.222Z",
+  "updated": "2026-11-23T19:28:21.383Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,58 +7,58 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26838.5,
-    "chg": -1.28
+    "price": 26841.25,
+    "chg": -1.27
   },
   "altseason": 53,
   "news": [
+    {
+      "title": "젠슨 황, 12월3일 상원 공개 증언…중국 반도체 수출 쟁점",
+      "link": "https://www.blockmedia.co.kr/archives/1169605?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795460860000
+    },
+    {
+      "title": "CFTC 예측시장 규제안 심사 착수…칼시·폴리마켓 운명 분수령",
+      "link": "https://www.blockmedia.co.kr/archives/1169622?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795460794000
+    },
+    {
+      "title": "바이낸스 해킹 63억달러…27억달러 가까이 동결·압류",
+      "link": "https://www.blockmedia.co.kr/archives/1169582?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795460700000
+    },
+    {
+      "title": "애플·엔비디아 빠진 OKXICE…24시간 토큰증권 거래 개시",
+      "link": "https://www.blockmedia.co.kr/archives/1169574?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795460611000
+    },
+    {
+      "title": "비트마인 ETH 7819개 추가 매입…보유 자산 111억달러",
+      "link": "https://www.blockmedia.co.kr/archives/1169547?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795460509000
+    },
+    {
+      "title": "에릭 트럼프의 ABTC, BTC 담보 1.5억달러 대출…주가 25% 급등",
+      "link": "https://www.blockmedia.co.kr/archives/1169616?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795459714000
+    },
+    {
+      "title": "엑스알피 1달러 돌파 후 반락",
+      "link": "https://www.blockmedia.co.kr/archives/1169609?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795458757000
+    },
     {
       "title": "젠슨 황 복귀에 증시·코인 동반 급반등…비트코인 6.1만달러 회복",
       "link": "https://www.blockmedia.co.kr/archives/1169596?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795455979000
-    },
-    {
-      "title": "[속보] 비트코인 6만1000달러대 하락",
-      "link": "https://www.blockmedia.co.kr/archives/1169590?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795453831000
-    },
-    {
-      "title": "앤트로픽 주가 혼조…엔비디아발 AI 랠리서 소외",
-      "link": "https://www.blockmedia.co.kr/archives/1169562?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795450331000
-    },
-    {
-      "title": "트럼프 “젠슨 황 잃는 게 최대 위협”…복귀 적극 개입(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1169555?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795449230000
-    },
-    {
-      "title": "젠슨 황 복귀에 머스크 · 애크먼 환호 vs 기업지배구조 전문가 “어이 없다”",
-      "link": "https://www.blockmedia.co.kr/archives/1169548?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795448269000
-    },
-    {
-      "title": "트럼프 “젠슨 황 복귀 위해 엔비디아 이사회와 접촉, 시진핑과도 장시간 대화”(상보)",
-      "link": "https://www.blockmedia.co.kr/archives/1169544?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795447578000
-    },
-    {
-      "title": "트럼프 “젠슨 황은 국가적 보물” 복귀 환영",
-      "link": "https://www.blockmedia.co.kr/archives/1169533?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795447530000
-    },
-    {
-      "title": "[속보] 트럼프, “젠슨 황에 대해 시진핑과 장시간 대화”",
-      "link": "https://www.blockmedia.co.kr/archives/1169542?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795447285000
     },
     {
       "title": "Why does every company need to verify you again?",
