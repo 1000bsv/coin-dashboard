@@ -556,6 +556,13 @@ player.addEventListener("ended",function(){
 });
 
 syncPlaylistUI();
+function setTodayVisits(count) {
+  var el = document.getElementById("todayVisits");
+  if (!el) return;
+  var n = Number(count);
+  el.innerHTML = "Today <b>" + (isFinite(n) && n >= 0 ? Math.floor(n) : "--") + "</b>";
+}
+setTodayVisits(79);
 </script>
 </body>
 </html>
