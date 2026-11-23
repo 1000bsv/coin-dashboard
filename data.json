@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T08:42:53.528Z",
+  "updated": "2026-11-23T09:57:24.599Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25928,
-    "chg": -4.63
+    "price": 25979.5,
+    "chg": -4.44
   },
-  "altseason": 53,
+  "altseason": 55,
   "news": [
+    {
+      "title": "[퇴근길시황] 코스피 4700선 턱걸이⋯비트코인 6.1만달러 반등에도 ETF 이탈",
+      "link": "https://www.blockmedia.co.kr/archives/1169396?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795424427000
+    },
     {
       "title": "이더리움 글램스터담 내년으로 연기…개발자 “구조적 문제 반복”",
       "link": "https://www.blockmedia.co.kr/archives/1169274?utm_source=general&utm_medium=rss",
@@ -59,12 +65,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169323?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795414380000
-    },
-    {
-      "title": "미국 연준 ‘빅스텝’ 전망 사라졌다…12월 금리동결 가능성 등장",
-      "link": "https://www.blockmedia.co.kr/archives/1169318?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795413650000
     },
     {
       "title": "Asian stablecoin market grows as Eastern Europe shrinks",
