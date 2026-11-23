@@ -79,11 +79,14 @@ body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","App
 .tm-row2>.tm-tile{flex:1}
 .tm-mini-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;flex:1.1;min-height:0}
 .tm-mini{border-radius:3px;padding:3px;font-size:9px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;color:rgba(255,255,255,.9);border:1px solid rgba(0,0,0,.25)}
-</style>
+.bgm-top-row{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px;position:relative;z-index:40}
+.today-badge{display:inline-flex;align-items:center;gap:5px;background:#121722;border:1px solid #2a3448;border-radius:6px;padding:4px 9px;font-size:11px;color:#cbd5e1;white-space:nowrap}
+.today-badge b{color:#ffd166;font-weight:700}</style>
 </head>
 <body>
 <div class="wrap">
   <div class="bgm-top-row">
+    <div class="today-badge" id="todayVisits">Today <b>--</b></div>
     <div class="blog-bgm" aria-label="미니 BGM 플레이어">
       <button type="button" id="bgmPlay" title="재생/일시정지">▶</button>
       <button type="button" id="bgmStop" title="정지">■</button>
