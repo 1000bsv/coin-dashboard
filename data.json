@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T01:18:24.689Z",
+  "updated": "2026-11-23T02:30:56.534Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25814.25,
-    "chg": -4.66
+    "price": 25735,
+    "chg": -4.95
   },
   "altseason": 51,
   "news": [
+    {
+      "title": "비트코인 ‘레버리지 대청소’…바이낸스 미결제약정 고점 대비 40% 급감",
+      "link": "https://www.blockmedia.co.kr/archives/1169236?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795399101000
+    },
     {
       "title": "오픈AI 수석 과학자 “AI 개발 속도 제한해야…통제 불능 위험 커져”",
       "link": "https://www.blockmedia.co.kr/archives/1169157?utm_source=general&utm_medium=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169148?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795386683000
-    },
-    {
-      "title": "비트코인 600만개 공개키 노출…양자컴퓨터 위협에 보안 강화 시급",
-      "link": "https://www.blockmedia.co.kr/archives/1169146?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795385027000
     },
     {
       "title": "BTC mining network difficulty fails to match token’s price decline",
