@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T15:21:09.696Z",
+  "updated": "2026-11-23T16:27:24.016Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,47 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26785,
-    "chg": -1.48
+    "price": 26902.75,
+    "chg": -1.04
   },
-  "altseason": 53,
+  "altseason": 55,
   "news": [
+    {
+      "title": "앤트로픽 주가 혼조…엔비디아발 AI 랠리서 소외",
+      "link": "https://www.blockmedia.co.kr/archives/1169562?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795450331000
+    },
+    {
+      "title": "트럼프 “젠슨 황 잃는 게 최대 위협”…복귀 적극 개입(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1169555?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795449230000
+    },
+    {
+      "title": "젠슨 황 복귀에 머스크 · 애크먼 환호 vs 기업지배구조 전문가 “어이 없다”",
+      "link": "https://www.blockmedia.co.kr/archives/1169548?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795448269000
+    },
+    {
+      "title": "트럼프 “젠슨 황 복귀 위해 엔비디아 이사회와 접촉, 시진핑과도 장시간 대화”(상보)",
+      "link": "https://www.blockmedia.co.kr/archives/1169544?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795447578000
+    },
+    {
+      "title": "트럼프 “젠슨 황은 국가적 보물” 복귀 환영",
+      "link": "https://www.blockmedia.co.kr/archives/1169533?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795447530000
+    },
+    {
+      "title": "[속보] 트럼프, “젠슨 황에 대해 시진핑과 장시간 대화”",
+      "link": "https://www.blockmedia.co.kr/archives/1169542?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795447285000
+    },
     {
       "title": "피터 시프 정조준…”젠슨 황 복직은 기업 윤리의 붕괴”",
       "link": "https://www.blockmedia.co.kr/archives/1169530?utm_source=general&utm_medium=rss",
@@ -23,42 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169529?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795446995000
-    },
-    {
-      "title": "젠슨 황 11일 만에 전격 복귀⋯ 월가 환호에 엔비디아 33% 폭등(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1169517?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795446098000
-    },
-    {
-      "title": "엔비디아 훈풍 탄 비트코인 6.3만달러 회복…숏 스퀴즈 폭발(상보)",
-      "link": "https://www.blockmedia.co.kr/archives/1169512?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795446032000
-    },
-    {
-      "title": "젠슨 황 복귀에 월가 환호…뉴욕증시 일제히 랠리(상보)",
-      "link": "https://www.blockmedia.co.kr/archives/1169509?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795445603000
-    },
-    {
-      "title": "[속보] 젠슨 황 “엔비디아로 돌아와 영광이다”",
-      "link": "https://www.blockmedia.co.kr/archives/1169507?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795445043000
-    },
-    {
-      "title": "[속보] 비트코인 6만3000달러 돌파",
-      "link": "https://www.blockmedia.co.kr/archives/1169494?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795443932000
-    },
-    {
-      "title": "[속보] 젠슨 황, 해임 2주 만에 엔비디아 CEO 전격 복귀",
-      "link": "https://www.blockmedia.co.kr/archives/1169482?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795443454000
     },
     {
       "title": "Why does every company need to verify you again?",
