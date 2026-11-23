@@ -25,15 +25,17 @@ body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","App
 .bgm-pop button:hover{background:#1b2334;color:#fff}
 .bgm-pop button.active{color:#ffb74d;font-weight:700}
 
-/* 상단 풀사이즈 배너 (원본 고화질 banner.jpg + 중앙 영어 필기체) */
-.banner{position:relative;width:100%;height:clamp(140px,22vw,210px);border-radius:14px;border:1px solid #3a455c;margin-bottom:16px;
-display:flex;align-items:center;justify-content:center;overflow:hidden;
-background:#090d16 url("banner.jpg") center 42% / cover no-repeat}
-.banner::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at center,rgba(6,10,18,.18) 0%,rgba(6,10,18,.52) 100%);pointer-events:none}
-.banner h1{position:relative;z-index:1;margin:0;padding:0 16px;text-align:center;
-font-family:"Cormorant Garamond","Great Vibes",Georgia,serif;font-style:italic;font-weight:500;
-font-size:clamp(22px,3.2vw,32px);letter-spacing:1.4px;color:#f3f6fc;
-text-shadow:0 2px 14px rgba(0,0,0,.78),0 0 24px rgba(130,175,255,.28)}
+/* 상단 풀사이즈 배너 (각인된 고화질 banner.jpg) */
+.banner {
+  position: relative;
+  width: 100%;
+  height: clamp(150px, 22vw, 240px);
+  border-radius: 14px;
+  border: 1px solid #3a455c;
+  margin-bottom: 16px;
+  overflow: hidden;
+  background: #1a1510 url("./banner.jpg") center / cover no-repeat;
+}
 
 .grid{display:grid;grid-template-columns:1.65fr 1fr;gap:16px;align-items:start}
 @media(max-width:860px){.grid{grid-template-columns:1fr}}
