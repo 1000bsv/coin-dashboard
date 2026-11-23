@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T22:15:50.406Z",
+  "updated": "2026-11-23T23:18:03.983Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,10 +7,10 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26845,
-    "chg": -1.26
+    "price": 26827,
+    "chg": -1.32
   },
-  "altseason": 57,
+  "altseason": 55,
   "news": [
     {
       "title": "[뉴욕 금·채권·달러] 연준 12월 금리 인상론 96% 굳어지며 달러 강세",
