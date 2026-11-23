@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T04:51:12.894Z",
+  "updated": "2026-11-23T05:53:59.601Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25830,
-    "chg": -4.6
+    "price": 25918.25,
+    "chg": -4.67
   },
-  "altseason": 51,
+  "altseason": 53,
   "news": [
+    {
+      "title": "금 2.6% 급반등에도 비트코인은 약세장…’디지털 금’ 위상 흔들",
+      "link": "https://www.blockmedia.co.kr/archives/1169306?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795410652000
+    },
     {
       "title": "블룸버그 맥글론 “비트코인 1만달러 추락 전망…도지코인은 가치 0에 수렴”",
       "link": "https://www.blockmedia.co.kr/archives/1169294?utm_source=general&utm_medium=rss",
@@ -59,12 +65,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169236?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795399101000
-    },
-    {
-      "title": "오픈AI 수석 과학자 “AI 개발 속도 제한해야…통제 불능 위험 커져”",
-      "link": "https://www.blockmedia.co.kr/archives/1169157?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795394791000
     },
     {
       "title": "BTC mining network difficulty fails to match token’s price decline",
