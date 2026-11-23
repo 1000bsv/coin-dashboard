@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:15:38.754Z",
+  "updated": "2026-11-23T22:15:50.406Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26811.75,
-    "chg": -1.38
+    "price": 26845,
+    "chg": -1.26
   },
   "altseason": 57,
   "news": [
+    {
+      "title": "[뉴욕 금·채권·달러] 연준 12월 금리 인상론 96% 굳어지며 달러 강세",
+      "link": "https://www.blockmedia.co.kr/archives/1169665?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795470636000
+    },
+    {
+      "title": "비트코인 411일째 하락 ‘역대 최장’…과거엔 이후 최대 119% 반등",
+      "link": "https://www.blockmedia.co.kr/archives/1169650?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795470444000
+    },
+    {
+      "title": "[뉴욕증시 마감] ‘젠슨 황 복귀’ 증시 턴어라운드…나스닥 6%·다우 1440p 상승",
+      "link": "https://www.blockmedia.co.kr/archives/1169660?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795468556000
+    },
     {
       "title": "[뉴욕 코인시황/마감] ‘젠슨 황 효과’에도 비트코인 상승분 반납…6만1000달러대 후퇴",
       "link": "https://www.blockmedia.co.kr/archives/1169654?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169605?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795460860000
-    },
-    {
-      "title": "CFTC 예측시장 규제안 심사 착수…칼시·폴리마켓 운명 분수령",
-      "link": "https://www.blockmedia.co.kr/archives/1169622?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795460794000
-    },
-    {
-      "title": "바이낸스 해킹 63억달러…27억달러 가까이 동결·압류",
-      "link": "https://www.blockmedia.co.kr/archives/1169582?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795460700000
-    },
-    {
-      "title": "애플·엔비디아 빠진 OKXICE…24시간 토큰증권 거래 개시",
-      "link": "https://www.blockmedia.co.kr/archives/1169574?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795460611000
     },
     {
       "title": "Why does every company need to verify you again?",
