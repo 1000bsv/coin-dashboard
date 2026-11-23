@@ -562,7 +562,14 @@ function setTodayVisits(count) {
   var n = Number(count);
   el.innerHTML = "Today <b>" + (isFinite(n) && n >= 0 ? Math.floor(n) : "--") + "</b>";
 }
-setTodayVisits(79);
+// 한국시간(KST) 기준 오늘 날짜 키 생성 (자정이 지나면 자동으로 새 카운터 시작)
+var kstDate = new Date(Date.now() + 9 * 3600000).toISOString().slice(0, 10).replace(/-/g, "");
+fetchWithTimeout("https://api.counterapi.dev/v1/1000bsv-dashboard/today-" + kstDate + "/up", 4000)
+  .then(function(res) {
+    if (res && typeof res.count === "number") {
+      setTodayVisits(res.count);
+    }
+  });
 </script>
 </body>
 </html>
