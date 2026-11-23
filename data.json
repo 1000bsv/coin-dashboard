@@ -1,17 +1,23 @@
 {
-  "updated": "2026-11-22T23:24:41.220Z",
+  "updated": "2026-11-23T00:06:32.197Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
-    "ts": 1795305600000,
-    "prev": 12
+    "ts": 1795392000000,
+    "prev": 11
   },
   "nasdaq": {
-    "price": 25538.5,
-    "chg": -5.68
+    "price": 25815.5,
+    "chg": -4.65
   },
-  "altseason": 49,
+  "altseason": 51,
   "news": [
+    {
+      "title": "엔비디아 주가 반토막 났는데…구형 AI 반도체 임대료는 60% 급등, 의미는?",
+      "link": "https://www.blockmedia.co.kr/archives/1169170?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795391386000
+    },
     {
       "title": "[코인시황] 비트코인, 주말 급락 딛고 6만달러선 회복…추가 반등은 ‘안갯속’",
       "link": "https://www.blockmedia.co.kr/archives/1169194?utm_source=general&utm_medium=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169139?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795382460000
-    },
-    {
-      "title": "엔비디아 23% 폭락·비트코인 6만달러…美 물가 발표 앞두고 금융시장 ‘긴장’",
-      "link": "https://www.blockmedia.co.kr/archives/1169136?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795382336000
     },
     {
       "title": "BTC mining network difficulty fails to match token’s price decline",
