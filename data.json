@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:35:06.343Z",
+  "updated": "2026-11-24T22:37:14.521Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26246,
-    "chg": -1.33
+    "price": 26266,
+    "chg": -1.26
   },
   "altseason": 53,
   "news": [
+    {
+      "title": "월가, 엔비디아 목표가 25% 일제히 낮춰",
+      "link": "https://www.blockmedia.co.kr/archives/1170182?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795559474000
+    },
+    {
+      "title": "벤자민 코웬 “비트코인 4만달러 밑으로 떨어질 수도…내년 3~6월 반등 기대”",
+      "link": "https://www.blockmedia.co.kr/archives/1170179?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795558336000
+    },
+    {
+      "title": "[뉴욕 금·채권·달러] AI 랠리 소멸에 달러 하락…금 2.24%↓·국채금리 혼조",
+      "link": "https://www.blockmedia.co.kr/archives/1170191?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795557019000
+    },
     {
       "title": "“비트코인 급락 주범은 해킹 아닌 수요 위축…5만3250달러가 방어선”",
       "link": "https://www.blockmedia.co.kr/archives/1170165?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170161?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795552303000
-    },
-    {
-      "title": "FTX 잔혹사 다룬 넷플릭스 신작, 바이낸스 내부 2019년 앙금까지 소환",
-      "link": "https://www.blockmedia.co.kr/archives/1170157?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795550999000
-    },
-    {
-      "title": "크라켄 페이워드, ‘비트코인 4% 캐시백’ 신용카드 전격 출시-더블록",
-      "link": "https://www.blockmedia.co.kr/archives/1170153?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795550176000
-    },
-    {
-      "title": "오픈AI 엔지니어, 비공개 회의 무단 녹음·기밀 촬영 혐의로 미 당국 조사",
-      "link": "https://www.blockmedia.co.kr/archives/1170148?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795549609000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
