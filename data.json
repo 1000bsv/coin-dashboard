@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:12:57.014Z",
+  "updated": "2026-11-24T10:19:54.886Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26540,
-    "chg": -0.23
+    "price": 26519.25,
+    "chg": -0.3
   },
-  "altseason": 59,
+  "altseason": 61,
   "news": [
+    {
+      "title": "애덤 백, 비트코인 성장 과정 재조명…”사토시도 비트코인 이용자 확보 고심”",
+      "link": "https://www.blockmedia.co.kr/archives/1169950?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795514449000
+    },
     {
       "title": "[퇴근길시황] 코스피 5000선 탈환⋯비트코인 6만달러 턱걸이·ETF 6.5억달러 이탈",
       "link": "https://www.blockmedia.co.kr/archives/1169966?utm_source=general&utm_medium=rss",
@@ -59,12 +65,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169839?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795502854000
-    },
-    {
-      "title": "[디자법 해부④] 거래소 지분 20% 상한…대주주 셈법 복잡해지나",
-      "link": "https://www.blockmedia.co.kr/archives/1169887?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795501509000
     },
     {
       "title": "UK boosts cyber guidance as consumers prefer humans over AI",
