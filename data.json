@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T00:12:28.089Z",
+  "updated": "2026-11-24T01:20:10.626Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26764.25,
-    "chg": -1.55
+    "price": 27025,
+    "chg": -0.59
   },
-  "altseason": 61,
+  "altseason": 59,
   "news": [
+    {
+      "title": "1달러 스테이블코인이 7800원…SKY 창업자 1000억 대출 사태에 USDS ‘이상 폭등’",
+      "link": "https://www.blockmedia.co.kr/archives/1169727?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795481701000
+    },
+    {
+      "title": "[개장시황] 코스피, 젠슨 황 복귀에 5%대 급등…5000선 눈앞",
+      "link": "https://www.blockmedia.co.kr/archives/1169710?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795479986000
+    },
     {
       "title": "“젠슨 황 복귀는 정치적 구제금융” WSJ, 트럼프 대통령 비판",
       "link": "https://www.blockmedia.co.kr/archives/1169706?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169660?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795468556000
-    },
-    {
-      "title": "[뉴욕 코인시황/마감] ‘젠슨 황 효과’에도 비트코인 상승분 반납…6만1000달러대 후퇴",
-      "link": "https://www.blockmedia.co.kr/archives/1169654?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795467632000
-    },
-    {
-      "title": "젠슨 황 복귀에 엔비디아 30% 급등…앤트로픽은 하락, AI 시장 경쟁 우려",
-      "link": "https://www.blockmedia.co.kr/archives/1169635?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795466161000
     },
     {
       "title": "Why does every company need to verify you again?",
