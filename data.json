@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T06:35:44.038Z",
+  "updated": "2026-11-24T08:02:57.114Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,41 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26821,
-    "chg": 0.83
+    "price": 26858,
+    "chg": 0.97
   },
-  "altseason": 61,
+  "altseason": 59,
   "news": [
+    {
+      "title": "Privacy through obscurity: BSV Noise gives you cover when you need it",
+      "link": "https://coingeek.com/privacy-through-obscurity-bsv-noise-gives-you-cover-when-you-need-it/",
+      "source": "Coingeek",
+      "ts": 1795507200000
+    },
+    {
+      "title": "알트코인 시총, 한 달 반 만에 2000억달러 증발⋯밈코인 비중 3%마저 무너졌다",
+      "link": "https://www.blockmedia.co.kr/archives/1169942?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795507072000
+    },
+    {
+      "title": "“연준도 더는 버티기 어렵다”…금·비트코인 반등론 고개",
+      "link": "https://www.blockmedia.co.kr/archives/1169867?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795506275000
+    },
+    {
+      "title": "에릭 트럼프 ‘아메리칸 비트코인’ 8500BTC 돌파…민주당 조사 예고에도 매집 지속",
+      "link": "https://www.blockmedia.co.kr/archives/1169886?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795503644000
+    },
+    {
+      "title": "[마감시황] 코스피, 6%대 급등에 5000선 탈환…코스닥도 4%↑",
+      "link": "https://www.blockmedia.co.kr/archives/1169839?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795502854000
+    },
     {
       "title": "[디자법 해부④] 거래소 지분 20% 상한…대주주 셈법 복잡해지나",
       "link": "https://www.blockmedia.co.kr/archives/1169887?utm_source=general&utm_medium=rss",
@@ -35,30 +65,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169855?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795500874000
-    },
-    {
-      "title": "[디자법 해부①] 국내서도 코인 발행 길 열린다…ICO 허용, 공시 책임은 강화",
-      "link": "https://www.blockmedia.co.kr/archives/1169826?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795500607000
-    },
-    {
-      "title": "디지털자산업법 정부안 공개…국내 ICO 허용·원화 스테이블코인 도입",
-      "link": "https://www.blockmedia.co.kr/archives/1169816?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795500108000
-    },
-    {
-      "title": "[속보] 원화 스테이블코인, 은행 과반 지분 컨소시엄에 우선 발행권",
-      "link": "https://www.blockmedia.co.kr/archives/1169805?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795500042000
-    },
-    {
-      "title": "[속보] 디지털자산 거래소 지분 20%로 제한…최장 6년 유예",
-      "link": "https://www.blockmedia.co.kr/archives/1169811?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795500023000
     },
     {
       "title": "UK boosts cyber guidance as consumers prefer humans over AI",
@@ -101,12 +107,6 @@
       "link": "https://coingeek.com/visa-direct-advances-stablecoin-powered-money-movement-in-asia-pacific/",
       "source": "Coingeek",
       "ts": 1795406400000
-    },
-    {
-      "title": "BTC mining network difficulty fails to match token’s price decline",
-      "link": "https://coingeek.com/btc-mining-network-difficulty-fails-to-match-token-price-decline/",
-      "source": "Coingeek",
-      "ts": 1795176000000
     }
   ]
 }
