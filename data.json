@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T08:02:57.114Z",
+  "updated": "2026-11-24T09:12:57.014Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26858,
-    "chg": 0.97
+    "price": 26540,
+    "chg": -0.23
   },
   "altseason": 59,
   "news": [
+    {
+      "title": "[퇴근길시황] 코스피 5000선 탈환⋯비트코인 6만달러 턱걸이·ETF 6.5억달러 이탈",
+      "link": "https://www.blockmedia.co.kr/archives/1169966?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795510840000
+    },
+    {
+      "title": "미국 대형 핀테크 은행, 비트코인 담보로 최대 3억원 대출 서비스 출시",
+      "link": "https://www.blockmedia.co.kr/archives/1169925?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795509951000
+    },
+    {
+      "title": "CFTC “파생상품 거래소, 비트코인·이더리움 등으로 재무건전성 요건 충족 가능”",
+      "link": "https://www.blockmedia.co.kr/archives/1169915?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795508141000
+    },
     {
       "title": "Privacy through obscurity: BSV Noise gives you cover when you need it",
       "link": "https://coingeek.com/privacy-through-obscurity-bsv-noise-gives-you-cover-when-you-need-it/",
@@ -47,24 +65,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169887?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795501509000
-    },
-    {
-      "title": "[디자법 해부③] 코인시장에 증권사·운용사 등장…시장조성자도 제도권으로",
-      "link": "https://www.blockmedia.co.kr/archives/1169876?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795501235000
-    },
-    {
-      "title": "[디자법 해부②] 원화 스테이블코인, 은행·핀테크 ‘합종연횡’…거래소 대주주 참여 땐 거래 제한?",
-      "link": "https://www.blockmedia.co.kr/archives/1169858?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795500919000
-    },
-    {
-      "title": "비트코인 반등 막는 ‘본전 매도’…글래스노드 “6만5000달러 돌파해야”",
-      "link": "https://www.blockmedia.co.kr/archives/1169855?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795500874000
     },
     {
       "title": "UK boosts cyber guidance as consumers prefer humans over AI",
