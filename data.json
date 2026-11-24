@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:24:23.292Z",
+  "updated": "2026-11-24T13:44:44.837Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,35 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26361,
-    "chg": -0.9
+    "price": 26198.75,
+    "chg": -1.51
   },
-  "altseason": 59,
+  "altseason": 55,
   "news": [
+    {
+      "title": "상장 일주일 만에 공모가 무너진 앤트로픽, 상장 초기 상승분 전액 반납",
+      "link": "https://www.blockmedia.co.kr/archives/1170013?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795527314000
+    },
+    {
+      "title": "앤트로픽·오픈AI 내부서 미공개 AI 안전성 우려 확산",
+      "link": "https://www.blockmedia.co.kr/archives/1170004?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795526774000
+    },
+    {
+      "title": "칼시, 유타주 서비스 중단⋯뉴욕서도 법적 공방 지속(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1170002?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795525969000
+    },
+    {
+      "title": "6만달러 위태로운데⋯바이낸스 고래 비트코인 유입, 8개월 만 최고치",
+      "link": "https://www.blockmedia.co.kr/archives/1169934?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795523449000
+    },
     {
       "title": "$TRUMP crypto dinner thinner, OKXICE tokenization goes live",
       "link": "https://coingeek.com/trump-crypto-dinner-thinner-okxice-tokenization-goes-live/",
@@ -43,34 +67,10 @@
       "ts": 1795510840000
     },
     {
-      "title": "미국 대형 핀테크 은행, 비트코인 담보로 최대 3억원 대출 서비스 출시",
-      "link": "https://www.blockmedia.co.kr/archives/1169925?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795509951000
-    },
-    {
-      "title": "CFTC “파생상품 거래소, 비트코인·이더리움 등으로 재무건전성 요건 충족 가능”",
-      "link": "https://www.blockmedia.co.kr/archives/1169915?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795508141000
-    },
-    {
       "title": "Privacy through obscurity: BSV Noise gives you cover when you need it",
       "link": "https://coingeek.com/privacy-through-obscurity-bsv-noise-gives-you-cover-when-you-need-it/",
       "source": "Coingeek",
       "ts": 1795507200000
-    },
-    {
-      "title": "알트코인 시총, 한 달 반 만에 2000억달러 증발⋯밈코인 비중 3%마저 무너졌다",
-      "link": "https://www.blockmedia.co.kr/archives/1169942?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795507072000
-    },
-    {
-      "title": "“연준도 더는 버티기 어렵다”…금·비트코인 반등론 고개",
-      "link": "https://www.blockmedia.co.kr/archives/1169867?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795506275000
     },
     {
       "title": "UK boosts cyber guidance as consumers prefer humans over AI",
