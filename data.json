@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:31:05.753Z",
+  "updated": "2026-11-24T21:35:06.343Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,41 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26176.25,
-    "chg": -1.59
+    "price": 26246,
+    "chg": -1.33
   },
   "altseason": 53,
   "news": [
+    {
+      "title": "“비트코인 급락 주범은 해킹 아닌 수요 위축…5만3250달러가 방어선”",
+      "link": "https://www.blockmedia.co.kr/archives/1170165?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795555390000
+    },
+    {
+      "title": "[뉴욕증시 마감] ‘젠슨 황 복귀 랠리’ 하루 만에 소멸…나스닥 1.5% 하락",
+      "link": "https://www.blockmedia.co.kr/archives/1170173?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795554721000
+    },
+    {
+      "title": "[뉴욕 코인시황/마감] 비트코인 6만달러 방어 실패…AI 랠리 소멸·ETF 자금 이탈",
+      "link": "https://www.blockmedia.co.kr/archives/1170166?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795553748000
+    },
+    {
+      "title": "고점 대비 53% 폭락한 비트코인…반등까지 53일 남았다?",
+      "link": "https://www.blockmedia.co.kr/archives/1170163?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795553594000
+    },
+    {
+      "title": "비트코인 6만달러 하락 대비 ‘보험’ 급증…2022년 폭락장 이후 최대",
+      "link": "https://www.blockmedia.co.kr/archives/1170161?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795552303000
+    },
     {
       "title": "FTX 잔혹사 다룬 넷플릭스 신작, 바이낸스 내부 2019년 앙금까지 소환",
       "link": "https://www.blockmedia.co.kr/archives/1170157?utm_source=general&utm_medium=rss",
@@ -29,36 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170148?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795549609000
-    },
-    {
-      "title": "중국 환호 속 젠슨 황 복귀…미·중 정치적 압박은 되레 가중",
-      "link": "https://www.blockmedia.co.kr/archives/1170146?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795548926000
-    },
-    {
-      "title": "“AI 열풍 안 끝났다”… 기술주 조정 속 증시 반등 전망 솔솔",
-      "link": "https://www.blockmedia.co.kr/archives/1170137?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795548150000
-    },
-    {
-      "title": "젠슨 황, 엔비디아 복귀 직전 추가 불륜 사실 공개⋯이사회 수시간 추궁",
-      "link": "https://www.blockmedia.co.kr/archives/1170108?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795548053000
-    },
-    {
-      "title": "스카이 프로토콜 stUSDS 인출 난항…5000만달러 토큰 매입안 제안(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1170106?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795547846000
-    },
-    {
-      "title": "앵커리지디지털, 12월 자산운용 자회사 출범⋯BTC 보유 고객에 수익 제공",
-      "link": "https://www.blockmedia.co.kr/archives/1170096?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795547734000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
