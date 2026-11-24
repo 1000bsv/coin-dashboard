@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:31:06.173Z",
+  "updated": "2026-11-24T03:35:37.121Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26825.25,
-    "chg": -1.33
+    "price": 26750,
+    "chg": -1.61
   },
   "altseason": 63,
   "news": [
+    {
+      "title": "젠슨 황 복귀 누가 미리 알았나⋯엔비디아 31% 폭등에 ‘내부자거래’ 의혹",
+      "link": "https://www.blockmedia.co.kr/archives/1169759?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795489526000
+    },
     {
       "title": "젠슨 황 돌아왔는데 비트코인은 왜 못 웃나⋯’AI 훈풍’에도 식은 코인 시장",
       "link": "https://www.blockmedia.co.kr/archives/1169751?utm_source=general&utm_medium=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169689?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795476333000
-    },
-    {
-      "title": "[뉴욕 금·채권·달러] 연준 12월 금리 인상론 96% 굳어지며 달러 강세",
-      "link": "https://www.blockmedia.co.kr/archives/1169665?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795470636000
     },
     {
       "title": "Why does every company need to verify you again?",
