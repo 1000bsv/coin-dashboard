@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T01:20:10.626Z",
+  "updated": "2026-11-24T02:31:06.173Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 27025,
-    "chg": -0.59
+    "price": 26825.25,
+    "chg": -1.33
   },
-  "altseason": 59,
+  "altseason": 63,
   "news": [
+    {
+      "title": "젠슨 황 돌아왔는데 비트코인은 왜 못 웃나⋯’AI 훈풍’에도 식은 코인 시장",
+      "link": "https://www.blockmedia.co.kr/archives/1169751?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795485697000
+    },
+    {
+      "title": "윈터뮤트·슈퍼폼 맞손…토큰화 주식 수익화 나선다",
+      "link": "https://www.blockmedia.co.kr/archives/1169746?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795485026000
+    },
     {
       "title": "1달러 스테이블코인이 7800원…SKY 창업자 1000억 대출 사태에 USDS ‘이상 폭등’",
       "link": "https://www.blockmedia.co.kr/archives/1169727?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169665?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795470636000
-    },
-    {
-      "title": "비트코인 411일째 하락 ‘역대 최장’…과거엔 이후 최대 119% 반등",
-      "link": "https://www.blockmedia.co.kr/archives/1169650?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795470444000
-    },
-    {
-      "title": "[뉴욕증시 마감] ‘젠슨 황 복귀’ 증시 턴어라운드…나스닥 6%·다우 1440p 상승",
-      "link": "https://www.blockmedia.co.kr/archives/1169660?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795468556000
     },
     {
       "title": "Why does every company need to verify you again?",
