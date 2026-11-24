@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T16:45:08.750Z",
+  "updated": "2026-11-24T17:34:33.486Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,8 +7,8 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26066.5,
-    "chg": -2.01
+    "price": 26257.75,
+    "chg": -1.29
   },
   "altseason": 55,
   "news": [
