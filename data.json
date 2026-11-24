@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T17:34:33.486Z",
+  "updated": "2026-11-24T18:32:21.221Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26257.75,
-    "chg": -1.29
+    "price": 26286,
+    "chg": -1.18
   },
   "altseason": 55,
   "news": [
+    {
+      "title": "MS, 24시간 서비스 대장애에 ‘코드레드’ 발령…시스템 전면 개편-로이터",
+      "link": "https://www.blockmedia.co.kr/archives/1170135?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795543821000
+    },
+    {
+      "title": "엔비디아 7% 급락에 위험자산 랠리 상쇄…비트코인 5.9만달러대",
+      "link": "https://www.blockmedia.co.kr/archives/1170126?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795543069000
+    },
     {
       "title": "미 관세·금리 공포에 코인베이스·써클 동반 하락(종합)",
       "link": "https://www.blockmedia.co.kr/archives/1170094?utm_source=general&utm_medium=rss",
@@ -55,22 +67,10 @@
       "ts": 1795525969000
     },
     {
-      "title": "6만달러 위태로운데⋯바이낸스 고래 비트코인 유입, 8개월 만 최고치",
-      "link": "https://www.blockmedia.co.kr/archives/1169934?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795523449000
-    },
-    {
       "title": "$TRUMP crypto dinner thinner, OKXICE tokenization goes live",
       "link": "https://coingeek.com/trump-crypto-dinner-thinner-okxice-tokenization-goes-live/",
       "source": "Coingeek",
       "ts": 1795521600000
-    },
-    {
-      "title": "피델리티 “비트코인 양자 위협, 기술적 해법 이미 있다”⋯관건은 커뮤니티 합의",
-      "link": "https://www.blockmedia.co.kr/archives/1169866?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795519831000
     },
     {
       "title": "Privacy through obscurity: BSV Noise gives you cover when you need it",
