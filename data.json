@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:41:52.297Z",
+  "updated": "2026-11-24T15:43:55.498Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26265.5,
-    "chg": -1.26
+    "price": 26267.25,
+    "chg": -1.25
   },
-  "altseason": 57,
+  "altseason": 55,
   "news": [
+    {
+      "title": "앤트로픽, 개장 직후 7.6% 추가 하락…83달러 공모가선 하회(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1170044?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795532228000
+    },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
       "link": "https://coingeek.com/kalshi-wins-ny-reprieve-flees-utah-mulls-parlay-free-future/",
@@ -65,12 +71,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1169854?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795516212000
-    },
-    {
-      "title": "애덤 백, 비트코인 성장 과정 재조명…”사토시도 비트코인 이용자 확보 고심”",
-      "link": "https://www.blockmedia.co.kr/archives/1169950?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795514449000
     },
     {
       "title": "Privacy through obscurity: BSV Noise gives you cover when you need it",
