@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:37:14.521Z",
+  "updated": "2026-11-24T23:29:31.261Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26266,
-    "chg": -1.26
+    "price": 26248,
+    "chg": -1.32
   },
-  "altseason": 53,
+  "altseason": 47,
   "news": [
+    {
+      "title": "[코인시황] 비트코인, 美 관세·AI 불확실성에 6만달러선 위태…금리 인상 부담도",
+      "link": "https://www.blockmedia.co.kr/archives/1170209?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795562390000
+    },
+    {
+      "title": "칼시, 美 유타주서 영업 중단…검찰, 형사 기소 철회",
+      "link": "https://www.blockmedia.co.kr/archives/1170184?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795561630000
+    },
+    {
+      "title": "피델리티 “체인링크·에이브·유니스왑 지원 확대…소매 디지털자산 8종으로”",
+      "link": "https://www.blockmedia.co.kr/archives/1170181?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795560800000
+    },
     {
       "title": "월가, 엔비디아 목표가 25% 일제히 낮춰",
       "link": "https://www.blockmedia.co.kr/archives/1170182?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170173?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795554721000
-    },
-    {
-      "title": "[뉴욕 코인시황/마감] 비트코인 6만달러 방어 실패…AI 랠리 소멸·ETF 자금 이탈",
-      "link": "https://www.blockmedia.co.kr/archives/1170166?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795553748000
-    },
-    {
-      "title": "고점 대비 53% 폭락한 비트코인…반등까지 53일 남았다?",
-      "link": "https://www.blockmedia.co.kr/archives/1170163?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795553594000
-    },
-    {
-      "title": "비트코인 6만달러 하락 대비 ‘보험’ 급증…2022년 폭락장 이후 최대",
-      "link": "https://www.blockmedia.co.kr/archives/1170161?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795552303000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
