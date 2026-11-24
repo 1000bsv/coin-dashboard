@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T18:32:21.221Z",
+  "updated": "2026-11-24T19:42:24.849Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,64 +7,64 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26286,
-    "chg": -1.18
+    "price": 26308.5,
+    "chg": -1.1
   },
-  "altseason": 55,
+  "altseason": 53,
   "news": [
     {
-      "title": "MS, 24시간 서비스 대장애에 ‘코드레드’ 발령…시스템 전면 개편-로이터",
-      "link": "https://www.blockmedia.co.kr/archives/1170135?utm_source=general&utm_medium=rss",
+      "title": "중국 환호 속 젠슨 황 복귀…미·중 정치적 압박은 되레 가중",
+      "link": "https://www.blockmedia.co.kr/archives/1170146?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795543821000
+      "ts": 1795548926000
     },
     {
-      "title": "엔비디아 7% 급락에 위험자산 랠리 상쇄…비트코인 5.9만달러대",
-      "link": "https://www.blockmedia.co.kr/archives/1170126?utm_source=general&utm_medium=rss",
+      "title": "“AI 열풍 안 끝났다”… 기술주 조정 속 증시 반등 전망 솔솔",
+      "link": "https://www.blockmedia.co.kr/archives/1170137?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795543069000
+      "ts": 1795548150000
     },
     {
-      "title": "미 관세·금리 공포에 코인베이스·써클 동반 하락(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1170094?utm_source=general&utm_medium=rss",
+      "title": "젠슨 황, 엔비디아 복귀 직전 추가 불륜 사실 공개⋯이사회 수시간 추궁",
+      "link": "https://www.blockmedia.co.kr/archives/1170108?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795538076000
+      "ts": 1795548053000
     },
     {
-      "title": "앤트로픽, 개장 직후 7.6% 추가 하락…83달러 공모가선 하회(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1170044?utm_source=general&utm_medium=rss",
+      "title": "스카이 프로토콜 stUSDS 인출 난항…5000만달러 토큰 매입안 제안(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1170106?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795532228000
+      "ts": 1795547846000
+    },
+    {
+      "title": "앵커리지디지털, 12월 자산운용 자회사 출범⋯BTC 보유 고객에 수익 제공",
+      "link": "https://www.blockmedia.co.kr/archives/1170096?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795547734000
+    },
+    {
+      "title": "미 법무부, 북한 해킹 바이낸스 탈취 11억달러 USDC 몰수 착수",
+      "link": "https://www.blockmedia.co.kr/archives/1170076?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795547562000
+    },
+    {
+      "title": "JP모건·HSBC, 런던서 디지털 금 첫 거래⋯실물 금 담보 활용 확대-블룸버그",
+      "link": "https://www.blockmedia.co.kr/archives/1170088?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795547457000
+    },
+    {
+      "title": "블랙록, 홍콩서 1억달러 규모 토큰화 MMF 전격 출시",
+      "link": "https://www.blockmedia.co.kr/archives/1170070?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795547428000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
       "link": "https://coingeek.com/kalshi-wins-ny-reprieve-flees-utah-mulls-parlay-free-future/",
       "source": "Coingeek",
       "ts": 1795528800000
-    },
-    {
-      "title": "세일러 “모든 비트코인 사들여 1000만달러까지 끌어올릴 것”",
-      "link": "https://www.blockmedia.co.kr/archives/1170015?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795528380000
-    },
-    {
-      "title": "상장 일주일 만에 공모가 무너진 앤트로픽, 상장 초기 상승분 전액 반납",
-      "link": "https://www.blockmedia.co.kr/archives/1170013?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795527314000
-    },
-    {
-      "title": "앤트로픽·오픈AI 내부서 미공개 AI 안전성 우려 확산",
-      "link": "https://www.blockmedia.co.kr/archives/1170004?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795526774000
-    },
-    {
-      "title": "칼시, 유타주 서비스 중단⋯뉴욕서도 법적 공방 지속(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1170002?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795525969000
     },
     {
       "title": "$TRUMP crypto dinner thinner, OKXICE tokenization goes live",
