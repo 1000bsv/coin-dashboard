@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:27:37.558Z",
+  "updated": "2026-11-25T19:26:33.335Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,64 +7,64 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25832.75,
-    "chg": 2.81
+    "price": 26090.25,
+    "chg": 3.84
   },
   "altseason": 53,
   "news": [
     {
-      "title": "비트코인 6만달러 회복 시도⋯증시, 충격 딛고 낙폭 축소",
-      "link": "https://www.blockmedia.co.kr/archives/1170709?utm_source=general&utm_medium=rss",
+      "title": "“납치 범죄 표적 될라”⋯프랑스 상원, 개인 지갑 신고·과세 무산",
+      "link": "https://www.blockmedia.co.kr/archives/1170722?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795629576000
+      "ts": 1795634704000
     },
     {
-      "title": "프랭클린템플턴, 크립토 인덱스 ETF에 하이퍼리퀴드(HYPE) 전격 편입",
-      "link": "https://www.blockmedia.co.kr/archives/1170699?utm_source=general&utm_medium=rss",
+      "title": "스페이스X, 100만기 규모 ‘우주 AI 데이터센터’ 승인 획득",
+      "link": "https://www.blockmedia.co.kr/archives/1170720?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795627159000
+      "ts": 1795634549000
     },
     {
-      "title": "PCE 상승에 0.89달러 밀려⋯0.87달러 지지선 시험",
-      "link": "https://www.blockmedia.co.kr/archives/1170640?utm_source=general&utm_medium=rss",
+      "title": "“AI가 일하고 주인이 돈 번다”⋯비자, 에이전트 정산 서비스 출시",
+      "link": "https://www.blockmedia.co.kr/archives/1170714?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795620825000
+      "ts": 1795634421000
     },
     {
-      "title": "[속보] 비트코인 5만7000달러대 하락",
-      "link": "https://www.blockmedia.co.kr/archives/1170637?utm_source=general&utm_medium=rss",
+      "title": "미 법원, 디지털자산 폰지사기 노바테크 창업자에 130만달러 지급 명령",
+      "link": "https://www.blockmedia.co.kr/archives/1170687?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795620195000
+      "ts": 1795634270000
     },
     {
-      "title": "트럼프, 중간선거 패배에도 관세 강행⋯중국 최대 20%",
-      "link": "https://www.blockmedia.co.kr/archives/1170601?utm_source=general&utm_medium=rss",
+      "title": "“바닥 찍었나” 비트코인, 과거 7차례 대투매 중 5차례 한 달 뒤 반등(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1170685?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795617613000
+      "ts": 1795634131000
     },
     {
-      "title": "근원물가·GDP 상승에 비트코인 5만8000달러대로 밀려(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1170598?utm_source=general&utm_medium=rss",
+      "title": "아크인베스트, 디지털자산 ETF 팔고 앤트로픽 6160만달러 추매",
+      "link": "https://www.blockmedia.co.kr/archives/1170672?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795617096000
+      "ts": 1795633926000
     },
     {
-      "title": "미 3분기 GDP 4.3% 성장⋯속보치 3.4% 깨고 ‘깜짝 상향’",
-      "link": "https://www.blockmedia.co.kr/archives/1170587?utm_source=general&utm_medium=rss",
+      "title": "우크라이나, 디지털자산 규제·과세법 통과⋯2027년 7월 시행",
+      "link": "https://www.blockmedia.co.kr/archives/1170656?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
-      "ts": 1795615845000
+      "ts": 1795633825000
+    },
+    {
+      "title": "엔비디아, 디지털자산 채굴 GPU 공시 소송 2억9000만달러 합의",
+      "link": "https://www.blockmedia.co.kr/archives/1170724?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795633654000
     },
     {
       "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
       "link": "https://coingeek.com/cleanspark-loses-1b-in-transitional-year-bitfufu-not-giving-up/",
       "source": "Coingeek",
       "ts": 1795615200000
-    },
-    {
-      "title": "미 10월 근원 PCE 3.3% 상승⋯예상치 상회에 ‘끈적한 물가’ 지속(상보)",
-      "link": "https://www.blockmedia.co.kr/archives/1170580?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795614810000
     },
     {
       "title": "What happens when every API call has a price?",
