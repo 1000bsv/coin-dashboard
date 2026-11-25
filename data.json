@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T10:40:00.970Z",
+  "updated": "2026-11-25T11:37:02.892Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25580,
+    "price": 25578.5,
     "chg": 1.8
   },
   "altseason": 47,
   "news": [
+    {
+      "title": "피터 브랜트 “이더리움, 1383달러 못 지키면 500달러 아래까지 추락할 수도”",
+      "link": "https://www.blockmedia.co.kr/archives/1170310?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795606252000
+    },
+    {
+      "title": "‘메인넷 1주년’ 모나드, 기존 유통량 140% 규모 언락에 사상 최저가 경신",
+      "link": "https://www.blockmedia.co.kr/archives/1170452?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795604415000
+    },
     {
       "title": "비트코인 6만달러 붕괴에 채굴업계 ‘비상’…해시레이트 5년 만에 역성장",
       "link": "https://www.blockmedia.co.kr/archives/1170266?utm_source=general&utm_medium=rss",
@@ -55,22 +67,10 @@
       "ts": 1795594505000
     },
     {
-      "title": "월러 연준 이사 “토큰화 자산, ‘좀비체인’에 갇힐 수도”…법적 안전장치 촉구",
-      "link": "https://www.blockmedia.co.kr/archives/1170275?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795593799000
-    },
-    {
       "title": "CoinGeek heads to FinTech Connect at ExCeL London in December",
       "link": "https://coingeek.com/coingeek-heads-to-fintech-connect-at-excel-london-in-december/",
       "source": "Coingeek",
       "ts": 1795593600000
-    },
-    {
-      "title": "비트코인·이더리움 ETF서 하루 3억달러 이탈⋯블랙록에 집중된 매도세",
-      "link": "https://www.blockmedia.co.kr/archives/1170399?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795590924000
     },
     {
       "title": "Singapore steps up digital money push; Ukraine’s crypto bill advances",
