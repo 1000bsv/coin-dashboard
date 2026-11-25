@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:59:20.895Z",
+  "updated": "2026-11-25T14:57:08.458Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,35 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25469.75,
-    "chg": 1.37
+    "price": 25153.25,
+    "chg": 0.11
   },
   "altseason": 47,
   "news": [
+    {
+      "title": "트럼프, 중간선거 패배에도 관세 강행⋯중국 최대 20%",
+      "link": "https://www.blockmedia.co.kr/archives/1170601?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795617613000
+    },
+    {
+      "title": "근원물가·GDP 상승에 비트코인 5만8000달러대로 밀려(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1170598?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795617096000
+    },
+    {
+      "title": "미 3분기 GDP 4.3% 성장⋯속보치 3.4% 깨고 ‘깜짝 상향’",
+      "link": "https://www.blockmedia.co.kr/archives/1170587?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795615845000
+    },
+    {
+      "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
+      "link": "https://coingeek.com/cleanspark-loses-1b-in-transitional-year-bitfufu-not-giving-up/",
+      "source": "Coingeek",
+      "ts": 1795615200000
+    },
     {
       "title": "미 10월 근원 PCE 3.3% 상승⋯예상치 상회에 ‘끈적한 물가’ 지속(상보)",
       "link": "https://www.blockmedia.co.kr/archives/1170580?utm_source=general&utm_medium=rss",
@@ -43,28 +67,10 @@
       "ts": 1795609810000
     },
     {
-      "title": "빗썸, 해킹 피해 추가 확인… 보름 넘게 개인정보 샜다",
-      "link": "https://www.blockmedia.co.kr/archives/1170542?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795608572000
-    },
-    {
       "title": "What happens when every API call has a price?",
       "link": "https://coingeek.com/what-happens-when-every-api-call-has-a-price/",
       "source": "Coingeek",
       "ts": 1795608000000
-    },
-    {
-      "title": "피터 브랜트 “이더리움, 1383달러 못 지키면 500달러 아래까지 추락할 수도”",
-      "link": "https://www.blockmedia.co.kr/archives/1170310?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795606252000
-    },
-    {
-      "title": "‘메인넷 1주년’ 모나드, 기존 유통량 140% 규모 언락에 사상 최저가 경신",
-      "link": "https://www.blockmedia.co.kr/archives/1170452?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795604415000
     },
     {
       "title": "Tether breathing easier as DC ally Lutnick survives Nvidia drama",
@@ -101,12 +107,6 @@
       "link": "https://coingeek.com/privacy-through-obscurity-bsv-noise-gives-you-cover-when-you-need-it/",
       "source": "Coingeek",
       "ts": 1795507200000
-    },
-    {
-      "title": "UK boosts cyber guidance as consumers prefer humans over AI",
-      "link": "https://coingeek.com/uk-boosts-cyber-guidance-as-consumers-prefer-humans-over-ai/",
-      "source": "Coingeek",
-      "ts": 1795500000000
     }
   ]
 }
