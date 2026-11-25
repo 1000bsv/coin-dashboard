@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T04:56:32.905Z",
+  "updated": "2026-11-25T05:50:30.907Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,35 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25950.5,
-    "chg": -2.44
+    "price": 25892,
+    "chg": 3.05
   },
-  "altseason": 47,
+  "altseason": 49,
   "news": [
+    {
+      "title": "펄, 오픈라우터 진출로 달라진 사용성과 향후 전망",
+      "link": "https://www.blockmedia.co.kr/archives/1169918?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795585210000
+    },
+    {
+      "title": "규제만 앞선 디지털자산법 정부안…디파이·금가분리 해법은 ‘미완’",
+      "link": "https://www.blockmedia.co.kr/archives/1170352?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795584636000
+    },
+    {
+      "title": "코인베이스 CEO “AI가 AI를 고용하는 시대 온다…결제는 스테이블코인으로”",
+      "link": "https://www.blockmedia.co.kr/archives/1170268?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795583369000
+    },
+    {
+      "title": "‘빅쇼트’ 스티브 아이스먼 “디지털자산 장기적 가치 없어…스테이블코인은 예외”",
+      "link": "https://www.blockmedia.co.kr/archives/1170331?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795582846000
+    },
     {
       "title": "‘월가의 전설’ 칼 아이칸, 5년간 재산 94% 증발…숏 포지션·과도한 레버리지의 역습",
       "link": "https://www.blockmedia.co.kr/archives/1170319?utm_source=general&utm_medium=rss",
@@ -35,30 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170273?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795575403000
-    },
-    {
-      "title": "이더리움 개발 자금난 심화…개발자 지원 조직 “필요한자금 유치 어려움 겪어”",
-      "link": "https://www.blockmedia.co.kr/archives/1170292?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795574704000
-    },
-    {
-      "title": "“비트코인 이렇게 싼 적 없었다”…그런데 기관은 사상 최대 매도",
-      "link": "https://www.blockmedia.co.kr/archives/1170253?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795570329000
-    },
-    {
-      "title": "코스피 4.9% 급락에 매도 사이드카 발동…삼성전자·SK하이닉스 7%대 폭락",
-      "link": "https://www.blockmedia.co.kr/archives/1170225?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795566952000
-    },
-    {
-      "title": "[개장시황] 코스피, 美 AI주 약세에 4%대 하락…5000선 다시 이탈",
-      "link": "https://www.blockmedia.co.kr/archives/1170216?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795565632000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
