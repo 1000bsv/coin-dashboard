@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T00:16:07.785Z",
+  "updated": "2026-11-25T01:50:10.512Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26181,
-    "chg": -1.58
+    "price": 26146,
+    "chg": -1.71
   },
   "altseason": 47,
   "news": [
+    {
+      "title": "“비트코인 이렇게 싼 적 없었다”…그런데 기관은 사상 최대 매도",
+      "link": "https://www.blockmedia.co.kr/archives/1170253?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795570329000
+    },
+    {
+      "title": "코스피 4.9% 급락에 매도 사이드카 발동…삼성전자·SK하이닉스 7%대 폭락",
+      "link": "https://www.blockmedia.co.kr/archives/1170225?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795566952000
+    },
     {
       "title": "[개장시황] 코스피, 美 AI주 약세에 4%대 하락…5000선 다시 이탈",
       "link": "https://www.blockmedia.co.kr/archives/1170216?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170182?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795559474000
-    },
-    {
-      "title": "벤자민 코웬 “비트코인 4만달러 밑으로 떨어질 수도…내년 3~6월 반등 기대”",
-      "link": "https://www.blockmedia.co.kr/archives/1170179?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795558336000
-    },
-    {
-      "title": "[뉴욕 금·채권·달러] AI 랠리 소멸에 달러 하락…금 2.24%↓·국채금리 혼조",
-      "link": "https://www.blockmedia.co.kr/archives/1170191?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795557019000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
