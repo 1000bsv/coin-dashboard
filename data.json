@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:26:33.335Z",
+  "updated": "2026-11-25T20:21:04.927Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26090.25,
-    "chg": 3.84
+    "price": 26023.25,
+    "chg": 3.57
   },
   "altseason": 53,
   "news": [
+    {
+      "title": "[속보] 비트코인, 6만달러 터치",
+      "link": "https://www.blockmedia.co.kr/archives/1170736?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795635522000
+    },
+    {
+      "title": "실적 전망 좋아져도 주가는 하락 ⋯월가, AI 고평가 논란 재점화",
+      "link": "https://www.blockmedia.co.kr/archives/1170733?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795635010000
+    },
     {
       "title": "“납치 범죄 표적 될라”⋯프랑스 상원, 개인 지갑 신고·과세 무산",
       "link": "https://www.blockmedia.co.kr/archives/1170722?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170672?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795633926000
-    },
-    {
-      "title": "우크라이나, 디지털자산 규제·과세법 통과⋯2027년 7월 시행",
-      "link": "https://www.blockmedia.co.kr/archives/1170656?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795633825000
-    },
-    {
-      "title": "엔비디아, 디지털자산 채굴 GPU 공시 소송 2억9000만달러 합의",
-      "link": "https://www.blockmedia.co.kr/archives/1170724?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795633654000
     },
     {
       "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
