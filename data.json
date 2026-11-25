@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:46:57.453Z",
+  "updated": "2026-11-25T03:50:47.909Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26018.75,
-    "chg": -2.19
+    "price": 26069.25,
+    "chg": -2
   },
   "altseason": 47,
   "news": [
+    {
+      "title": "MSCI 편출 닷새 앞두고 STRC 띄운 세일러…투자자 불안 달래기 나섰나",
+      "link": "https://www.blockmedia.co.kr/archives/1170309?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795576510000
+    },
+    {
+      "title": "레이 달리오 “금, 디지털자산보다 매력적…중앙은행 비트코인 보유 의문”",
+      "link": "https://www.blockmedia.co.kr/archives/1170273?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795575403000
+    },
     {
       "title": "이더리움 개발 자금난 심화…개발자 지원 조직 “필요한자금 유치 어려움 겪어”",
       "link": "https://www.blockmedia.co.kr/archives/1170292?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170209?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795562390000
-    },
-    {
-      "title": "칼시, 美 유타주서 영업 중단…검찰, 형사 기소 철회",
-      "link": "https://www.blockmedia.co.kr/archives/1170184?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795561630000
-    },
-    {
-      "title": "피델리티 “체인링크·에이브·유니스왑 지원 확대…소매 디지털자산 8종으로”",
-      "link": "https://www.blockmedia.co.kr/archives/1170181?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795560800000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
