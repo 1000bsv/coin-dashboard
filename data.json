@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T06:54:40.671Z",
+  "updated": "2026-11-25T08:24:36.118Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,53 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25889.75,
-    "chg": 3.04
+    "price": 25780.5,
+    "chg": 2.6
   },
-  "altseason": 47,
+  "altseason": 51,
   "news": [
+    {
+      "title": "비트코인 약세장, 얼마나 더 갈까⋯온체인 지표가 가리킨 5만3300달러",
+      "link": "https://www.blockmedia.co.kr/archives/1170458?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795594505000
+    },
+    {
+      "title": "월러 연준 이사 “토큰화 자산, ‘좀비체인’에 갇힐 수도”…법적 안전장치 촉구",
+      "link": "https://www.blockmedia.co.kr/archives/1170275?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795593799000
+    },
+    {
+      "title": "CoinGeek heads to FinTech Connect at ExCeL London in December",
+      "link": "https://coingeek.com/coingeek-heads-to-fintech-connect-at-excel-london-in-december/",
+      "source": "Coingeek",
+      "ts": 1795593600000
+    },
+    {
+      "title": "비트코인·이더리움 ETF서 하루 3억달러 이탈⋯블랙록에 집중된 매도세",
+      "link": "https://www.blockmedia.co.kr/archives/1170399?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795590924000
+    },
+    {
+      "title": "“닷컴버블 때 아마존도 94% 폭락했다”…AI에 보내는 경고",
+      "link": "https://www.blockmedia.co.kr/archives/1170337?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795590110000
+    },
+    {
+      "title": "스트라이브 부사장, 은행 자본규제 개편 주목…”비트코인 역대급 호재 온다”",
+      "link": "https://www.blockmedia.co.kr/archives/1170370?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795590030000
+    },
+    {
+      "title": "‘비트코인 10만달러’ 꿈 더 멀어지나⋯풋옵션 비중, 2022년 하락장 수준 복귀",
+      "link": "https://www.blockmedia.co.kr/archives/1170393?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795590002000
+    },
     {
       "title": "[마감시황] 코스피, 반등 하루 만에 6%대 폭락…4700선 붕괴",
       "link": "https://www.blockmedia.co.kr/archives/1170429?utm_source=general&utm_medium=rss",
@@ -25,46 +67,10 @@
       "ts": 1795588220000
     },
     {
-      "title": "트럼프, 젠슨 황 ‘사면 가능성’ 열어뒀다…엔비디아 지분 확보까지 거론",
-      "link": "https://www.blockmedia.co.kr/archives/1170371?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795586421000
-    },
-    {
       "title": "Singapore steps up digital money push; Ukraine’s crypto bill advances",
       "link": "https://coingeek.com/singapore-steps-up-digital-money-push-ukraine-crypto-bill-advances/",
       "source": "Coingeek",
       "ts": 1795586400000
-    },
-    {
-      "title": "펄, 오픈라우터 진출로 달라진 사용성과 향후 전망",
-      "link": "https://www.blockmedia.co.kr/archives/1169918?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795585210000
-    },
-    {
-      "title": "규제만 앞선 디지털자산법 정부안…디파이·금가분리 해법은 ‘미완’",
-      "link": "https://www.blockmedia.co.kr/archives/1170352?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795584636000
-    },
-    {
-      "title": "코인베이스 CEO “AI가 AI를 고용하는 시대 온다…결제는 스테이블코인으로”",
-      "link": "https://www.blockmedia.co.kr/archives/1170268?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795583369000
-    },
-    {
-      "title": "‘빅쇼트’ 스티브 아이스먼 “디지털자산 장기적 가치 없어…스테이블코인은 예외”",
-      "link": "https://www.blockmedia.co.kr/archives/1170331?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795582846000
-    },
-    {
-      "title": "‘월가의 전설’ 칼 아이칸, 5년간 재산 94% 증발…숏 포지션·과도한 레버리지의 역습",
-      "link": "https://www.blockmedia.co.kr/archives/1170319?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795581017000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
@@ -101,12 +107,6 @@
       "link": "https://coingeek.com/why-does-every-company-need-to-verify-you-again/",
       "source": "Coingeek",
       "ts": 1795435200000
-    },
-    {
-      "title": "Fund the facts: Maria Ressa on credible journalism in the AI age",
-      "link": "https://coingeek.com/fund-the-facts-maria-ressa-on-credible-journalism-in-the-ai-age/",
-      "source": "Coingeek",
-      "ts": 1795428000000
     }
   ]
 }
