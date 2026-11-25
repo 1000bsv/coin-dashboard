@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T03:50:47.909Z",
+  "updated": "2026-11-25T04:56:32.905Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26069.25,
-    "chg": -2
+    "price": 25950.5,
+    "chg": -2.44
   },
   "altseason": 47,
   "news": [
+    {
+      "title": "‘월가의 전설’ 칼 아이칸, 5년간 재산 94% 증발…숏 포지션·과도한 레버리지의 역습",
+      "link": "https://www.blockmedia.co.kr/archives/1170319?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795581017000
+    },
+    {
+      "title": "크레이머·톰 리 “AI주 급락은 저가 매수 기회…인내심 필요”",
+      "link": "https://www.blockmedia.co.kr/archives/1170271?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795579590000
+    },
     {
       "title": "MSCI 편출 닷새 앞두고 STRC 띄운 세일러…투자자 불안 달래기 나섰나",
       "link": "https://www.blockmedia.co.kr/archives/1170309?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170216?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795565632000
-    },
-    {
-      "title": "카르다노, 고점 대비 95% 폭락… “20센트 회복보다 10센트 추락 가능성 커”",
-      "link": "https://www.blockmedia.co.kr/archives/1170183?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795563928000
-    },
-    {
-      "title": "[코인시황] 비트코인, 美 관세·AI 불확실성에 6만달러선 위태…금리 인상 부담도",
-      "link": "https://www.blockmedia.co.kr/archives/1170209?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795562390000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
