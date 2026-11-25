@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T01:50:10.512Z",
+  "updated": "2026-11-25T02:46:57.453Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26146,
-    "chg": -1.71
+    "price": 26018.75,
+    "chg": -2.19
   },
   "altseason": 47,
   "news": [
+    {
+      "title": "이더리움 개발 자금난 심화…개발자 지원 조직 “필요한자금 유치 어려움 겪어”",
+      "link": "https://www.blockmedia.co.kr/archives/1170292?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795574704000
+    },
     {
       "title": "“비트코인 이렇게 싼 적 없었다”…그런데 기관은 사상 최대 매도",
       "link": "https://www.blockmedia.co.kr/archives/1170253?utm_source=general&utm_medium=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170181?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795560800000
-    },
-    {
-      "title": "월가, 엔비디아 목표가 25% 일제히 낮춰",
-      "link": "https://www.blockmedia.co.kr/archives/1170182?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795559474000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
