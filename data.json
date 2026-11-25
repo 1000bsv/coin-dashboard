@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:24:36.118Z",
+  "updated": "2026-11-25T09:42:53.659Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25780.5,
-    "chg": 2.6
+    "price": 25688.75,
+    "chg": 2.24
   },
-  "altseason": 51,
+  "altseason": 47,
   "news": [
+    {
+      "title": "[퇴근길시황] 코스피 하루 만에 4700선 붕괴⋯비트코인 5만8000달러대·ETF 3억달러 이탈",
+      "link": "https://www.blockmedia.co.kr/archives/1170476?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795597239000
+    },
+    {
+      "title": "[알쓸코법] 베일 벗은 디지털자산기본법…사업자와 투자자가 알아야 할 핵심은",
+      "link": "https://www.blockmedia.co.kr/archives/1170406?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795597214000
+    },
+    {
+      "title": "“AI 거품 터지면 비트코인 100만달러 길 열린다”…아서 헤이즈의 ‘역발상’",
+      "link": "https://www.blockmedia.co.kr/archives/1170320?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795595403000
+    },
     {
       "title": "비트코인 약세장, 얼마나 더 갈까⋯온체인 지표가 가리킨 5만3300달러",
       "link": "https://www.blockmedia.co.kr/archives/1170458?utm_source=general&utm_medium=rss",
@@ -47,24 +65,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170370?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795590030000
-    },
-    {
-      "title": "‘비트코인 10만달러’ 꿈 더 멀어지나⋯풋옵션 비중, 2022년 하락장 수준 복귀",
-      "link": "https://www.blockmedia.co.kr/archives/1170393?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795590002000
-    },
-    {
-      "title": "[마감시황] 코스피, 반등 하루 만에 6%대 폭락…4700선 붕괴",
-      "link": "https://www.blockmedia.co.kr/archives/1170429?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795589395000
-    },
-    {
-      "title": "디지털자산기본법: 4대 플레이어가 반드시 알아야 할 생존 법칙",
-      "link": "https://www.blockmedia.co.kr/archives/1170379?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795588220000
     },
     {
       "title": "Singapore steps up digital money push; Ukraine’s crypto bill advances",
