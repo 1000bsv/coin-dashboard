@@ -1,17 +1,29 @@
 {
-  "updated": "2026-11-24T23:29:31.261Z",
+  "updated": "2026-11-25T00:16:07.785Z",
   "fng": {
-    "value": 11,
+    "value": 13,
     "label": "Extreme Fear",
-    "ts": 1795478400000,
+    "ts": 1795564800000,
     "prev": 11
   },
   "nasdaq": {
-    "price": 26248,
-    "chg": -1.32
+    "price": 26181,
+    "chg": -1.58
   },
   "altseason": 47,
   "news": [
+    {
+      "title": "[개장시황] 코스피, 美 AI주 약세에 4%대 하락…5000선 다시 이탈",
+      "link": "https://www.blockmedia.co.kr/archives/1170216?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795565632000
+    },
+    {
+      "title": "카르다노, 고점 대비 95% 폭락… “20센트 회복보다 10센트 추락 가능성 커”",
+      "link": "https://www.blockmedia.co.kr/archives/1170183?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795563928000
+    },
     {
       "title": "[코인시황] 비트코인, 美 관세·AI 불확실성에 6만달러선 위태…금리 인상 부담도",
       "link": "https://www.blockmedia.co.kr/archives/1170209?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170191?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795557019000
-    },
-    {
-      "title": "“비트코인 급락 주범은 해킹 아닌 수요 위축…5만3250달러가 방어선”",
-      "link": "https://www.blockmedia.co.kr/archives/1170165?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795555390000
-    },
-    {
-      "title": "[뉴욕증시 마감] ‘젠슨 황 복귀 랠리’ 하루 만에 소멸…나스닥 1.5% 하락",
-      "link": "https://www.blockmedia.co.kr/archives/1170173?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795554721000
     },
     {
       "title": "Kalshi wins NY reprieve, flees Utah, mulls parlay-free future",
