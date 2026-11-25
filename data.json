@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:40:44.739Z",
+  "updated": "2026-11-25T18:27:37.558Z",
   "fng": {
     "value": 13,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 25554.25,
-    "chg": 1.7
+    "price": 25832.75,
+    "chg": 2.81
   },
-  "altseason": 49,
+  "altseason": 53,
   "news": [
+    {
+      "title": "비트코인 6만달러 회복 시도⋯증시, 충격 딛고 낙폭 축소",
+      "link": "https://www.blockmedia.co.kr/archives/1170709?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795629576000
+    },
     {
       "title": "프랭클린템플턴, 크립토 인덱스 ETF에 하이퍼리퀴드(HYPE) 전격 편입",
       "link": "https://www.blockmedia.co.kr/archives/1170699?utm_source=general&utm_medium=rss",
@@ -59,12 +65,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170580?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795614810000
-    },
-    {
-      "title": "[속보] 미국 10월 PCE 전년 대비 3.8% 상승…예상치 부합",
-      "link": "https://www.blockmedia.co.kr/archives/1170562?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795613586000
     },
     {
       "title": "What happens when every API call has a price?",
