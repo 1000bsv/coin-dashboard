@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T10:24:08.031Z",
+  "updated": "2026-11-26T11:22:52.106Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26254.5,
-    "chg": 4.49
+    "price": 26172.25,
+    "chg": 4.16
   },
-  "altseason": 55,
+  "altseason": 57,
   "news": [
+    {
+      "title": "‘비트코인 바닥론’ 접은 갤럭시…5만8525달러 깨지면 2만8200달러까지?",
+      "link": "https://www.blockmedia.co.kr/archives/1170851?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795689045000
+    },
     {
       "title": "Japan curbs crypto tax evaders as S. Korea readies new bill",
       "link": "https://coingeek.com/japan-curbs-crypto-tax-evaders-as-s-korea-readies-new-bill/",
@@ -65,12 +71,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170985?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795675221000
-    },
-    {
-      "title": "차기 금융서비스위원장 유력 후보 워터스 “트럼프 디지털자산 부패 조사할 것”",
-      "link": "https://www.blockmedia.co.kr/archives/1170967?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795673126000
     },
     {
       "title": "From London to Hong Kong, regulators are tightening crypto rules",
