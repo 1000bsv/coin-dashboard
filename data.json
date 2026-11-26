@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:38:41.311Z",
+  "updated": "2026-11-26T04:44:22.069Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26314.5,
-    "chg": 4.73
+    "price": 26399.75,
+    "chg": 5.07
   },
   "altseason": 57,
   "news": [
+    {
+      "title": "비트코인 다시 하락… “과거에도 바닥 확인까지 두 달 걸렸다”",
+      "link": "https://www.blockmedia.co.kr/archives/1170910?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795667597000
+    },
+    {
+      "title": "블룸버그 맥글론이 “비트코인 전성기는 끝났다”고 선언한 이유",
+      "link": "https://www.blockmedia.co.kr/archives/1170913?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795665633000
+    },
     {
       "title": "비트코인, 200주 이평선보다 19% 하락…바닥에 가까워졌나",
       "link": "https://www.blockmedia.co.kr/archives/1170905?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170839?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795654292000
-    },
-    {
-      "title": "디지털자산법안, 코인 ‘최적가 주문’ 의무 신설…정작 거래소는 빠져 ‘반쪽’ 우려",
-      "link": "https://www.blockmedia.co.kr/archives/1170818?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795653657000
-    },
-    {
-      "title": "[개장시황] 코스피, 저가 매수세에 반등…4700선 회복",
-      "link": "https://www.blockmedia.co.kr/archives/1170813?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795652039000
     },
     {
       "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
