@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T08:05:44.251Z",
+  "updated": "2026-11-26T09:14:43.720Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,16 +7,40 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26258.25,
-    "chg": 4.5
+    "price": 26245.25,
+    "chg": 4.45
   },
-  "altseason": 55,
+  "altseason": 57,
   "news": [
+    {
+      "title": "[퇴근길시황] 코스피 4700선 회복⋯비트코인 6만달러 탈환에도 ETF 5.2억달러 이탈",
+      "link": "https://www.blockmedia.co.kr/archives/1171085?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795683616000
+    },
+    {
+      "title": "유동수 정무위원장, 디지털자산법 대표발의…정부안 국회에",
+      "link": "https://www.blockmedia.co.kr/archives/1171086?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795683423000
+    },
+    {
+      "title": "비트코인 ‘역대급 손절’의 함정?…”대규모 내부 이체에 매도세 과대평가 우려”",
+      "link": "https://www.blockmedia.co.kr/archives/1171063?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795681805000
+    },
     {
       "title": "‘63억달러 해킹’에 규제 고삐 당긴다…영국, 디파이 플랫폼에도 인가 요구",
       "link": "https://www.blockmedia.co.kr/archives/1171029?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795680034000
+    },
+    {
+      "title": "North Korea hackers not sparing suds in laundering Binance crypto",
+      "link": "https://coingeek.com/north-korea-hackers-not-sparing-suds-in-laundering-binance-crypto/",
+      "source": "Coingeek",
+      "ts": 1795680000000
     },
     {
       "title": "‘승부수’인가 ‘무리수’인가… 피델리티, 체인링크 현물 ETF 증권신고서 제출",
@@ -43,28 +67,10 @@
       "ts": 1795673126000
     },
     {
-      "title": "비트코인·이더리움 ETF 동반 ‘순유출’ 지속…11월 한 달에만 9조원 증발했다",
-      "link": "https://www.blockmedia.co.kr/archives/1170974?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795672825000
-    },
-    {
       "title": "From London to Hong Kong, regulators are tightening crypto rules",
       "link": "https://coingeek.com/from-london-to-hong-kong-regulators-are-tightening-crypto-rules/",
       "source": "Coingeek",
       "ts": 1795672800000
-    },
-    {
-      "title": "앤트로픽 CEO, IPO로 2억8000만달러 현금화…주가는 공모가 하회",
-      "link": "https://www.blockmedia.co.kr/archives/1170965?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795671933000
-    },
-    {
-      "title": "비밀번호 관리 서비스 ‘1패스워드’ 해킹…창펑자오 “모든 비밀번호 바꿔라”",
-      "link": "https://www.blockmedia.co.kr/archives/1170952?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795670576000
     },
     {
       "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
@@ -101,12 +107,6 @@
       "link": "https://coingeek.com/kalshi-wins-ny-reprieve-flees-utah-mulls-parlay-free-future/",
       "source": "Coingeek",
       "ts": 1795528800000
-    },
-    {
-      "title": "$TRUMP crypto dinner thinner, OKXICE tokenization goes live",
-      "link": "https://coingeek.com/trump-crypto-dinner-thinner-okxice-tokenization-goes-live/",
-      "source": "Coingeek",
-      "ts": 1795521600000
     }
   ]
 }
