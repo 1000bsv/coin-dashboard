@@ -1,17 +1,29 @@
 {
-  "updated": "2026-11-25T23:17:54.588Z",
+  "updated": "2026-11-26T00:13:14.667Z",
   "fng": {
-    "value": 13,
+    "value": 11,
     "label": "Extreme Fear",
-    "ts": 1795564800000,
-    "prev": 11
+    "ts": 1795651200000,
+    "prev": 13
   },
   "nasdaq": {
-    "price": 26007.25,
-    "chg": 3.51
+    "price": 26132.5,
+    "chg": 4
   },
   "altseason": 45,
   "news": [
+    {
+      "title": "머스크·스페이스X, ‘트럼프 계좌’에 178억달러 기부…美 아동에 주식 2주씩",
+      "link": "https://www.blockmedia.co.kr/archives/1170791?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795650431000
+    },
+    {
+      "title": "[코인시황] 비트코인, 美 관세·물가 압박 속 6만달러 사수…하락 우려는 여전",
+      "link": "https://www.blockmedia.co.kr/archives/1170803?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795648951000
+    },
     {
       "title": "美 연준 “물가 압력 여전”…12월 추가 금리 인상 가능성 커져",
       "link": "https://www.blockmedia.co.kr/archives/1170789?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170766?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795643434000
-    },
-    {
-      "title": "머스크의 ‘뇌 칩’ 상용화 성큼…美 FDA 핵심 임상시험 승인",
-      "link": "https://www.blockmedia.co.kr/archives/1170768?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795643189000
-    },
-    {
-      "title": "빅숏 마이클 버리의 변신, “롱이 더 많다” 매수 종목은?",
-      "link": "https://www.blockmedia.co.kr/archives/1170767?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795642912000
     },
     {
       "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
