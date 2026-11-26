@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:41:51.741Z",
+  "updated": "2026-11-26T21:32:45.164Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -13,7 +13,19 @@
   "altseason": 55,
   "news": [
     {
-      "title": "[뉴욕 코인시황] 비트코인 6만달러 회복…고래 떠났지만 160억달러 숏 청산 기대",
+      "title": "비트코인, 98분간 블록 생성 ‘멈칫’…지난 7월 이후 최장",
+      "link": "https://www.blockmedia.co.kr/archives/1171219?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795727480000
+    },
+    {
+      "title": "비트코인에 ‘올인’ 세일러…개인 재산 60억달러 증발, 회사는 129억달러 평가손실",
+      "link": "https://www.blockmedia.co.kr/archives/1171214?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795726514000
+    },
+    {
+      "title": "[뉴욕 코인시황] 비트코인, 추수감사절 6만600달러…고래 떠났지만 160억달러 숏 청산 기대",
       "link": "https://www.blockmedia.co.kr/archives/1171211?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795725368000
@@ -59,18 +71,6 @@
       "link": "https://coingeek.com/japan-curbs-crypto-tax-evaders-as-s-korea-readies-new-bill/",
       "source": "Coingeek",
       "ts": 1795687200000
-    },
-    {
-      "title": "[퇴근길시황] 코스피 4700선 회복⋯비트코인 6만달러 탈환에도 ETF 5.2억달러 이탈",
-      "link": "https://www.blockmedia.co.kr/archives/1171085?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795683616000
-    },
-    {
-      "title": "유동수 정무위원장, 디지털자산법 대표발의…정부안 국회에",
-      "link": "https://www.blockmedia.co.kr/archives/1171086?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795683423000
     },
     {
       "title": "North Korea hackers not sparing suds in laundering Binance crypto",
