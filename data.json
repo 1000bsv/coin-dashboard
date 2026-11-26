@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T22:35:28.702Z",
+  "updated": "2026-11-26T23:34:15.665Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26221.25,
-    "chg": 4.36
+    "price": 26248,
+    "chg": 4.46
   },
   "altseason": 59,
   "news": [
+    {
+      "title": "[코인시황] 비트코인, 美 추수감사절 휴장 속 6만달러대 강보합…매수세 회복은 아직",
+      "link": "https://www.blockmedia.co.kr/archives/1171256?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795735939000
+    },
+    {
+      "title": "비트코인 캐도 손해…채굴원가 8만6000달러, 시장 가격은 6만달러",
+      "link": "https://www.blockmedia.co.kr/archives/1171254?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795733796000
+    },
     {
       "title": "지캐시, 암호체계 무력화 우려에 선제 대응…40만ZEC 보호 추진",
       "link": "https://www.blockmedia.co.kr/archives/1171243?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171219?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795727480000
-    },
-    {
-      "title": "비트코인에 ‘올인’ 세일러…개인 재산 60억달러 증발, 회사는 129억달러 평가손실",
-      "link": "https://www.blockmedia.co.kr/archives/1171214?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795726514000
-    },
-    {
-      "title": "[뉴욕 코인시황] 비트코인, 추수감사절 6만600달러…고래 떠났지만 160억달러 숏 청산 기대",
-      "link": "https://www.blockmedia.co.kr/archives/1171211?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795725368000
     },
     {
       "title": "Utah drops Kalshi criminal charges but NYC’s had enough",
