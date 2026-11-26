@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:33:52.996Z",
+  "updated": "2026-11-26T03:38:41.311Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26288.25,
-    "chg": 4.62
+    "price": 26314.5,
+    "chg": 4.73
   },
   "altseason": 57,
   "news": [
+    {
+      "title": "비트코인, 200주 이평선보다 19% 하락…바닥에 가까워졌나",
+      "link": "https://www.blockmedia.co.kr/archives/1170905?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795664109000
+    },
+    {
+      "title": "주기영 “비트코인 160억달러 숏 청산 대기…반등 시 숏스퀴즈 가능성”",
+      "link": "https://www.blockmedia.co.kr/archives/1170902?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795661865000
+    },
+    {
+      "title": "스카이 프로토콜, stUSDS 출금 위기에 2500만USDS 긴급 이전 추진",
+      "link": "https://www.blockmedia.co.kr/archives/1170894?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795661119000
+    },
     {
       "title": "성장률 4% 시대에 소비는 뒷걸음…한은 기준금리 3.75%까지 올릴까(종합)",
       "link": "https://www.blockmedia.co.kr/archives/1170873?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170813?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795652039000
-    },
-    {
-      "title": "머스크·스페이스X, ‘트럼프 계좌’에 178억달러 기부…美 아동에 주식 2주씩",
-      "link": "https://www.blockmedia.co.kr/archives/1170791?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795650431000
-    },
-    {
-      "title": "[코인시황] 비트코인, 美 관세·물가 압박 속 6만달러 사수…하락 우려는 여전",
-      "link": "https://www.blockmedia.co.kr/archives/1170803?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795648951000
-    },
-    {
-      "title": "美 연준 “물가 압력 여전”…12월 추가 금리 인상 가능성 커져",
-      "link": "https://www.blockmedia.co.kr/archives/1170789?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795648131000
     },
     {
       "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
