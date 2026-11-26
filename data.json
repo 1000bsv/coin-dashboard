@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:27:34.314Z",
+  "updated": "2026-11-26T13:49:11.647Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26298.5,
-    "chg": 4.66
+    "price": 26302.75,
+    "chg": 4.68
   },
   "altseason": 57,
   "news": [
+    {
+      "title": "“비트코인 2만달러에도 스트래티지 견딜 수 있다”–TD코웬 분석가",
+      "link": "https://www.blockmedia.co.kr/archives/1171157?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795700762000
+    },
+    {
+      "title": "비트코인 6만달러 유지, 유럽 증시 상승…미국은 추수감사절 휴장",
+      "link": "https://www.blockmedia.co.kr/archives/1171139?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795696866000
+    },
+    {
+      "title": "바이낸스로 이더리움 17만개 순유입…6개월 만 최대→‘매도 폭탄’ 터지나",
+      "link": "https://www.blockmedia.co.kr/archives/1170966?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795696206000
+    },
     {
       "title": "Utah drops Kalshi criminal charges but NYC’s had enough",
       "link": "https://coingeek.com/utah-drops-kalshi-criminal-charges-but-nyc-had-enough/",
@@ -55,28 +73,10 @@
       "ts": 1795681805000
     },
     {
-      "title": "‘63억달러 해킹’에 규제 고삐 당긴다…영국, 디파이 플랫폼에도 인가 요구",
-      "link": "https://www.blockmedia.co.kr/archives/1171029?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795680034000
-    },
-    {
       "title": "North Korea hackers not sparing suds in laundering Binance crypto",
       "link": "https://coingeek.com/north-korea-hackers-not-sparing-suds-in-laundering-binance-crypto/",
       "source": "Coingeek",
       "ts": 1795680000000
-    },
-    {
-      "title": "‘승부수’인가 ‘무리수’인가… 피델리티, 체인링크 현물 ETF 증권신고서 제출",
-      "link": "https://www.blockmedia.co.kr/archives/1171000?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795676512000
-    },
-    {
-      "title": "[마감시황] 코스피, 4800선 넘봤지만…개인 1조 매도에 0.29% 상승 그쳐",
-      "link": "https://www.blockmedia.co.kr/archives/1171040?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795676223000
     },
     {
       "title": "From London to Hong Kong, regulators are tightening crypto rules",
