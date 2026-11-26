@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T13:49:11.647Z",
+  "updated": "2026-11-26T14:49:18.144Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,10 +7,10 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26302.75,
-    "chg": 4.68
+    "price": 26280.5,
+    "chg": 4.59
   },
-  "altseason": 57,
+  "altseason": 55,
   "news": [
     {
       "title": "“비트코인 2만달러에도 스트래티지 견딜 수 있다”–TD코웬 분석가",
