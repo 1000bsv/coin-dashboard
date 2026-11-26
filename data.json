@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T04:44:22.069Z",
+  "updated": "2026-11-26T05:40:31.980Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26399.75,
-    "chg": 5.07
+    "price": 26384.5,
+    "chg": 5.01
   },
   "altseason": 57,
   "news": [
+    {
+      "title": "비밀번호 관리 서비스 ‘1패스워드’ 해킹…창펑자오 “모든 비밀번호 바꿔라”",
+      "link": "https://www.blockmedia.co.kr/archives/1170952?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795670576000
+    },
+    {
+      "title": "금융위, 거래소 상장 책임 ‘증권신고서’급으로 강화…알트코인 상폐 잇따르나",
+      "link": "https://www.blockmedia.co.kr/archives/1170953?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795670126000
+    },
+    {
+      "title": "미국 비트코인 비축법안, 하원 본회의 심의 단계 진입",
+      "link": "https://www.blockmedia.co.kr/archives/1170958?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795668941000
+    },
     {
       "title": "비트코인 다시 하락… “과거에도 바닥 확인까지 두 달 걸렸다”",
       "link": "https://www.blockmedia.co.kr/archives/1170910?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170894?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795661119000
-    },
-    {
-      "title": "성장률 4% 시대에 소비는 뒷걸음…한은 기준금리 3.75%까지 올릴까(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1170873?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795657546000
-    },
-    {
-      "title": "한은, 기준금리 3.25%로 인상…내년 성장률 전망 4.1%로 상향(상보)",
-      "link": "https://www.blockmedia.co.kr/archives/1170841?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795654815000
-    },
-    {
-      "title": "[속보] 한은, 기준금리 연 3.25%로 0.25%p 인상",
-      "link": "https://www.blockmedia.co.kr/archives/1170839?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795654292000
     },
     {
       "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
