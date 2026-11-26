@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T06:37:29.501Z",
+  "updated": "2026-11-26T08:05:44.251Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,35 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26264.25,
-    "chg": 4.53
+    "price": 26258.25,
+    "chg": 4.5
   },
   "altseason": 55,
   "news": [
+    {
+      "title": "‘63억달러 해킹’에 규제 고삐 당긴다…영국, 디파이 플랫폼에도 인가 요구",
+      "link": "https://www.blockmedia.co.kr/archives/1171029?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795680034000
+    },
+    {
+      "title": "‘승부수’인가 ‘무리수’인가… 피델리티, 체인링크 현물 ETF 증권신고서 제출",
+      "link": "https://www.blockmedia.co.kr/archives/1171000?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795676512000
+    },
+    {
+      "title": "[마감시황] 코스피, 4800선 넘봤지만…개인 1조 매도에 0.29% 상승 그쳐",
+      "link": "https://www.blockmedia.co.kr/archives/1171040?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795676223000
+    },
+    {
+      "title": "미국 차기 상원 은행위원장 유력 후보 워런, SEC에 디지털자산 규제 완화 철회 요구",
+      "link": "https://www.blockmedia.co.kr/archives/1170985?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795675221000
+    },
     {
       "title": "차기 금융서비스위원장 유력 후보 워터스 “트럼프 디지털자산 부패 조사할 것”",
       "link": "https://www.blockmedia.co.kr/archives/1170967?utm_source=general&utm_medium=rss",
@@ -41,30 +65,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170952?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795670576000
-    },
-    {
-      "title": "금융위, 거래소 상장 책임 ‘증권신고서’급으로 강화…알트코인 상폐 잇따르나",
-      "link": "https://www.blockmedia.co.kr/archives/1170953?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795670126000
-    },
-    {
-      "title": "미국 비트코인 비축법안, 하원 본회의 심의 단계 진입",
-      "link": "https://www.blockmedia.co.kr/archives/1170958?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795668941000
-    },
-    {
-      "title": "비트코인 다시 하락… “과거에도 바닥 확인까지 두 달 걸렸다”",
-      "link": "https://www.blockmedia.co.kr/archives/1170910?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795667597000
-    },
-    {
-      "title": "블룸버그 맥글론이 “비트코인 전성기는 끝났다”고 선언한 이유",
-      "link": "https://www.blockmedia.co.kr/archives/1170913?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795665633000
     },
     {
       "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
