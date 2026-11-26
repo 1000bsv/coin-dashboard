@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T21:32:45.164Z",
+  "updated": "2026-11-26T22:35:28.702Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -10,8 +10,38 @@
     "price": 26221.25,
     "chg": 4.36
   },
-  "altseason": 55,
+  "altseason": 59,
   "news": [
+    {
+      "title": "지캐시, 암호체계 무력화 우려에 선제 대응…40만ZEC 보호 추진",
+      "link": "https://www.blockmedia.co.kr/archives/1171243?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795732299000
+    },
+    {
+      "title": "미국서 XRP 3배 레버리지·인버스 ETF 나온다…30일 등록 효력 예정",
+      "link": "https://www.blockmedia.co.kr/archives/1171225?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795731346000
+    },
+    {
+      "title": "모네로 15%·지캐시 5% 급락…거래소 상장폐지에 프라이버시 코인 ‘비상’",
+      "link": "https://www.blockmedia.co.kr/archives/1171228?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795730209000
+    },
+    {
+      "title": "비트코인 옵션 70억달러 오늘 만기…‘10만달러 콜’에서 ‘6만달러 방어’로",
+      "link": "https://www.blockmedia.co.kr/archives/1171237?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795729291000
+    },
+    {
+      "title": "JP모건 “비트코인 투매 신호 포착”…스트래티지 기업가치도 사상 최저",
+      "link": "https://www.blockmedia.co.kr/archives/1171218?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795728734000
+    },
     {
       "title": "비트코인, 98분간 블록 생성 ‘멈칫’…지난 7월 이후 최장",
       "link": "https://www.blockmedia.co.kr/archives/1171219?utm_source=general&utm_medium=rss",
@@ -31,40 +61,10 @@
       "ts": 1795725368000
     },
     {
-      "title": "“비트코인 2만달러에도 스트래티지 견딜 수 있다”–TD코웬 분석가",
-      "link": "https://www.blockmedia.co.kr/archives/1171157?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795700762000
-    },
-    {
-      "title": "비트코인 6만달러 유지, 유럽 증시 상승…미국은 추수감사절 휴장",
-      "link": "https://www.blockmedia.co.kr/archives/1171139?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795696866000
-    },
-    {
-      "title": "바이낸스로 이더리움 17만개 순유입…6개월 만 최대→‘매도 폭탄’ 터지나",
-      "link": "https://www.blockmedia.co.kr/archives/1170966?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795696206000
-    },
-    {
       "title": "Utah drops Kalshi criminal charges but NYC’s had enough",
       "link": "https://coingeek.com/utah-drops-kalshi-criminal-charges-but-nyc-had-enough/",
       "source": "Coingeek",
       "ts": 1795694400000
-    },
-    {
-      "title": "오픈AI, 챗GPT 프로 사용량 축소 철회…12월 ‘토큰 제한’은 예정대로",
-      "link": "https://www.blockmedia.co.kr/archives/1170946?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795692619000
-    },
-    {
-      "title": "‘비트코인 바닥론’ 접은 갤럭시…5만8525달러 깨지면 2만8200달러까지?",
-      "link": "https://www.blockmedia.co.kr/archives/1170851?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795689045000
     },
     {
       "title": "Japan curbs crypto tax evaders as S. Korea readies new bill",
