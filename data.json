@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T00:13:14.667Z",
+  "updated": "2026-11-26T01:28:07.275Z",
   "fng": {
     "value": 11,
     "label": "Extreme Fear",
@@ -7,11 +7,35 @@
     "prev": 13
   },
   "nasdaq": {
-    "price": 26132.5,
-    "chg": 4
+    "price": 26290,
+    "chg": 4.63
   },
-  "altseason": 45,
+  "altseason": 55,
   "news": [
+    {
+      "title": "한은, 기준금리 3.25%로 인상…내년 성장률 전망 4.1%로 상향(상보)",
+      "link": "https://www.blockmedia.co.kr/archives/1170841?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795654815000
+    },
+    {
+      "title": "[속보] 한은, 기준금리 연 3.25%로 0.25%p 인상",
+      "link": "https://www.blockmedia.co.kr/archives/1170839?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795654292000
+    },
+    {
+      "title": "디지털자산법안, 코인 ‘최적가 주문’ 의무 신설…정작 거래소는 빠져 ‘반쪽’ 우려",
+      "link": "https://www.blockmedia.co.kr/archives/1170818?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795653657000
+    },
+    {
+      "title": "[개장시황] 코스피, 저가 매수세에 반등…4700선 회복",
+      "link": "https://www.blockmedia.co.kr/archives/1170813?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795652039000
+    },
     {
       "title": "머스크·스페이스X, ‘트럼프 계좌’에 178억달러 기부…美 아동에 주식 2주씩",
       "link": "https://www.blockmedia.co.kr/archives/1170791?utm_source=general&utm_medium=rss",
@@ -35,30 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1170785?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795647218000
-    },
-    {
-      "title": "XRP, 올해 세 번째 저점 경신…반등 힘 잃고 90센트마저 위태",
-      "link": "https://www.blockmedia.co.kr/archives/1170774?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795646011000
-    },
-    {
-      "title": "지캐시 일주일 새 25% 급락…반등 기대 키우는 두 가지 신호",
-      "link": "https://www.blockmedia.co.kr/archives/1170775?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795644685000
-    },
-    {
-      "title": "JP모건, “AI 투자 2027년 정점 도달”",
-      "link": "https://www.blockmedia.co.kr/archives/1170778?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795643750000
-    },
-    {
-      "title": "[뉴욕 금·채권·달러] AI주 투매에 국채금리·달러 하락⋯금 3430달러 최저 찍고 반등",
-      "link": "https://www.blockmedia.co.kr/archives/1170766?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795643434000
     },
     {
       "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
