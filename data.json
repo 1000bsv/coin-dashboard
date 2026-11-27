@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T07:50:27.988Z",
+  "updated": "2026-11-27T08:52:44.647Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,35 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26676.25,
-    "chg": 6.17
+    "price": 26825.25,
+    "chg": 6.76
   },
-  "altseason": 55,
+  "altseason": 53,
   "news": [
+    {
+      "title": "미래에셋 디지털엑스, 비트코인 112개·이더리움 800개 매각…운영비 충당",
+      "link": "https://www.blockmedia.co.kr/archives/1171425?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795769215000
+    },
+    {
+      "title": "일본은행 “스테이블코인·자산 토큰화, 금융시장 새로운 리스크될 수도”",
+      "link": "https://www.blockmedia.co.kr/archives/1171458?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795768259000
+    },
+    {
+      "title": "리플 주식 가치 두고 엇갈린 평가…美 펀드 두 곳 평가액 3배 이상 차이",
+      "link": "https://www.blockmedia.co.kr/archives/1171411?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795767444000
+    },
+    {
+      "title": "Tokens can represent rights, not just assets",
+      "link": "https://coingeek.com/tokens-can-represent-rights-not-just-assets/",
+      "source": "Coingeek",
+      "ts": 1795766400000
+    },
     {
       "title": "이더리움 글래스터담, 12월 업그레이드 확정⋯스마트계약 영향 우려 속 강행",
       "link": "https://www.blockmedia.co.kr/archives/1171431?utm_source=general&utm_medium=rss",
@@ -49,24 +73,6 @@
       "ts": 1795759200000
     },
     {
-      "title": "與 박민규, 거래소 대주주 지분 제한 반대… “위헌 소지 크다”",
-      "link": "https://www.blockmedia.co.kr/archives/1171397?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795758794000
-    },
-    {
-      "title": "AI株 반등에 위험자산 ‘훈풍’…코스피 4% 급등·비트코인 6만1000달러 회복",
-      "link": "https://www.blockmedia.co.kr/archives/1171382?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795756919000
-    },
-    {
-      "title": "수이 네트워크 내 무기한 선물 거래량 95% 차지한 블루핀, 선물 거래 서비스 종료",
-      "link": "https://www.blockmedia.co.kr/archives/1171364?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795753810000
-    },
-    {
       "title": "Utah drops Kalshi criminal charges but NYC’s had enough",
       "link": "https://coingeek.com/utah-drops-kalshi-criminal-charges-but-nyc-had-enough/",
       "source": "Coingeek",
@@ -101,12 +107,6 @@
       "link": "https://coingeek.com/what-happens-when-every-api-call-has-a-price/",
       "source": "Coingeek",
       "ts": 1795608000000
-    },
-    {
-      "title": "Tether breathing easier as DC ally Lutnick survives Nvidia drama",
-      "link": "https://coingeek.com/tether-breathing-easier-as-dc-ally-lutnick-survives-nvidia-drama/",
-      "source": "Coingeek",
-      "ts": 1795600800000
     }
   ]
 }
