@@ -1,17 +1,23 @@
 {
-  "updated": "2026-11-26T23:34:15.665Z",
+  "updated": "2026-11-27T00:35:42.042Z",
   "fng": {
-    "value": 11,
+    "value": 12,
     "label": "Extreme Fear",
-    "ts": 1795651200000,
-    "prev": 13
+    "ts": 1795737600000,
+    "prev": 11
   },
   "nasdaq": {
-    "price": 26248,
-    "chg": 4.46
+    "price": 26258.75,
+    "chg": 4.51
   },
-  "altseason": 59,
+  "altseason": 53,
   "news": [
+    {
+      "title": "[개장시황] 코스피, 증안펀드 기대 속 상승 출발…코스닥 2%대↑",
+      "link": "https://www.blockmedia.co.kr/archives/1171266?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795738541000
+    },
     {
       "title": "[코인시황] 비트코인, 美 추수감사절 휴장 속 6만달러대 강보합…매수세 회복은 아직",
       "link": "https://www.blockmedia.co.kr/archives/1171256?utm_source=general&utm_medium=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171218?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795728734000
-    },
-    {
-      "title": "비트코인, 98분간 블록 생성 ‘멈칫’…지난 7월 이후 최장",
-      "link": "https://www.blockmedia.co.kr/archives/1171219?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795727480000
     },
     {
       "title": "Utah drops Kalshi criminal charges but NYC’s had enough",
