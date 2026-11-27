@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T00:35:42.042Z",
+  "updated": "2026-11-27T02:01:38.905Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26258.75,
-    "chg": 4.51
+    "price": 26444,
+    "chg": 5.24
   },
   "altseason": 53,
   "news": [
+    {
+      "title": "일본 서비스 물가 36년 만에 최대 상승…12월 금리 인상 압력 커져",
+      "link": "https://www.blockmedia.co.kr/archives/1171303?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795744314000
+    },
+    {
+      "title": "비트코인 5만달러까지 밀리나… “7만달러 회복 전까진 약세장”",
+      "link": "https://www.blockmedia.co.kr/archives/1171296?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795742928000
+    },
+    {
+      "title": "500원도 안 되는 비용으로 비트코인 지갑 IP 추적…보안 취약점 발견",
+      "link": "https://www.blockmedia.co.kr/archives/1171261?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795740447000
+    },
     {
       "title": "[개장시황] 코스피, 증안펀드 기대 속 상승 출발…코스닥 2%대↑",
       "link": "https://www.blockmedia.co.kr/archives/1171266?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171225?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795731346000
-    },
-    {
-      "title": "모네로 15%·지캐시 5% 급락…거래소 상장폐지에 프라이버시 코인 ‘비상’",
-      "link": "https://www.blockmedia.co.kr/archives/1171228?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795730209000
-    },
-    {
-      "title": "비트코인 옵션 70억달러 오늘 만기…‘10만달러 콜’에서 ‘6만달러 방어’로",
-      "link": "https://www.blockmedia.co.kr/archives/1171237?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795729291000
-    },
-    {
-      "title": "JP모건 “비트코인 투매 신호 포착”…스트래티지 기업가치도 사상 최저",
-      "link": "https://www.blockmedia.co.kr/archives/1171218?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795728734000
     },
     {
       "title": "Utah drops Kalshi criminal charges but NYC’s had enough",
