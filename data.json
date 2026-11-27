@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:41:24.981Z",
+  "updated": "2026-11-27T13:58:43.818Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26650.5,
-    "chg": 6.07
+    "price": 26700.75,
+    "chg": 6.27
   },
-  "altseason": 55,
+  "altseason": 53,
   "news": [
+    {
+      "title": "오스트리아 디지털자산 거래액 상반기 204억유로⋯지난해 연간 규모 추월",
+      "link": "https://www.blockmedia.co.kr/archives/1171555?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795786814000
+    },
+    {
+      "title": "중남미 디지털자산 거래량 76% 급증⋯스테이블코인 확산",
+      "link": "https://www.blockmedia.co.kr/archives/1171549?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795785605000
+    },
+    {
+      "title": "비트코인 6만1000달러 회복에도 데드크로스 경고",
+      "link": "https://www.blockmedia.co.kr/archives/1171547?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795784952000
+    },
     {
       "title": "JP모건 “비트코인 ‘항복’ 신호 포착”⋯ETF 자금 이탈에 미국 규제 갈등까지",
       "link": "https://www.blockmedia.co.kr/archives/1171371?utm_source=general&utm_medium=rss",
@@ -55,28 +73,10 @@
       "ts": 1795769215000
     },
     {
-      "title": "일본은행 “스테이블코인·자산 토큰화, 금융시장 새로운 리스크될 수도”",
-      "link": "https://www.blockmedia.co.kr/archives/1171458?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795768259000
-    },
-    {
-      "title": "리플 주식 가치 두고 엇갈린 평가…美 펀드 두 곳 평가액 3배 이상 차이",
-      "link": "https://www.blockmedia.co.kr/archives/1171411?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795767444000
-    },
-    {
       "title": "Tokens can represent rights, not just assets",
       "link": "https://coingeek.com/tokens-can-represent-rights-not-just-assets/",
       "source": "Coingeek",
       "ts": 1795766400000
-    },
-    {
-      "title": "이더리움 글래스터담, 12월 업그레이드 확정⋯스마트계약 영향 우려 속 강행",
-      "link": "https://www.blockmedia.co.kr/archives/1171431?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795764616000
     },
     {
       "title": "Coins.ph limits digital currency transfers to regulated exchanges",
