@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T14:47:45.857Z",
+  "updated": "2026-11-27T15:47:50.309Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26392.75,
-    "chg": -1.55
+    "price": 26545.75,
+    "chg": -0.98
   },
-  "altseason": 55,
+  "altseason": 57,
   "news": [
+    {
+      "title": "골드만 “다음 주 증시 1000억달러 자동 매도 폭탄” 경고(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1171594?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795793727000
+    },
+    {
+      "title": "트론 0.30달러 시험대… “연내 0.40달러·2030년 1달러 전망”",
+      "link": "https://www.blockmedia.co.kr/archives/1171585?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795791762000
+    },
     {
       "title": "바이낸스 출금 제한 전면 해제⋯토큰화 증권 사업 확대 움직임",
       "link": "https://www.blockmedia.co.kr/archives/1171561?utm_source=general&utm_medium=rss",
@@ -55,22 +67,10 @@
       "ts": 1795779035000
     },
     {
-      "title": "수수료만 내면 트론 34억원이 내 손에?…무심코 돈 보냈다가 큰일 나는 이유",
-      "link": "https://www.blockmedia.co.kr/archives/1171302?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795775412000
-    },
-    {
       "title": "Ukraine passes crypto law as SNB, World Bank expand trials",
       "link": "https://coingeek.com/ukraine-passes-crypto-law-as-snb-world-bank-expand-trials/",
       "source": "Coingeek",
       "ts": 1795773600000
-    },
-    {
-      "title": "[퇴근길시황] 코스피 4900선 탈환·코스닥 8% 급등⋯비트코인도 6만1000달러대 회복",
-      "link": "https://www.blockmedia.co.kr/archives/1171495?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795770040000
     },
     {
       "title": "Tokens can represent rights, not just assets",
