@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T13:58:43.818Z",
+  "updated": "2026-11-27T14:47:45.857Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26700.75,
-    "chg": 6.27
+    "price": 26392.75,
+    "chg": -1.55
   },
-  "altseason": 53,
+  "altseason": 55,
   "news": [
+    {
+      "title": "바이낸스 출금 제한 전면 해제⋯토큰화 증권 사업 확대 움직임",
+      "link": "https://www.blockmedia.co.kr/archives/1171561?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795787933000
+    },
     {
       "title": "오스트리아 디지털자산 거래액 상반기 204억유로⋯지난해 연간 규모 추월",
       "link": "https://www.blockmedia.co.kr/archives/1171555?utm_source=general&utm_medium=rss",
@@ -65,12 +71,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171495?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795770040000
-    },
-    {
-      "title": "미래에셋 디지털엑스, 비트코인 112개·이더리움 800개 매각…운영비 충당",
-      "link": "https://www.blockmedia.co.kr/archives/1171425?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795769215000
     },
     {
       "title": "Tokens can represent rights, not just assets",
