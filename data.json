@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T09:54:25.313Z",
+  "updated": "2026-11-27T10:44:28.016Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26792,
-    "chg": 6.63
+    "price": 26775.75,
+    "chg": 6.56
   },
-  "altseason": 53,
+  "altseason": 55,
   "news": [
+    {
+      "title": "수수료만 내면 트론 34억원이 내 손에?…무심코 돈 보냈다가 큰일 나는 이유",
+      "link": "https://www.blockmedia.co.kr/archives/1171302?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795775412000
+    },
+    {
+      "title": "Ukraine passes crypto law as SNB, World Bank expand trials",
+      "link": "https://coingeek.com/ukraine-passes-crypto-law-as-snb-world-bank-expand-trials/",
+      "source": "Coingeek",
+      "ts": 1795773600000
+    },
     {
       "title": "[퇴근길시황] 코스피 4900선 탈환·코스닥 8% 급등⋯비트코인도 6만1000달러대 회복",
       "link": "https://www.blockmedia.co.kr/archives/1171495?utm_source=general&utm_medium=rss",
@@ -61,12 +73,6 @@
       "ts": 1795762015000
     },
     {
-      "title": "비트코인 반등에 ‘돈 가뭄’ 경고등⋯한 달 새 매수 실탄 173억달러 증발",
-      "link": "https://www.blockmedia.co.kr/archives/1171409?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795761049000
-    },
-    {
       "title": "Coins.ph limits digital currency transfers to regulated exchanges",
       "link": "https://coingeek.com/coins-ph-limits-digital-currency-transfers-to-regulated-exchanges/",
       "source": "Coingeek",
@@ -101,12 +107,6 @@
       "link": "https://coingeek.com/cleanspark-loses-1b-in-transitional-year-bitfufu-not-giving-up/",
       "source": "Coingeek",
       "ts": 1795615200000
-    },
-    {
-      "title": "What happens when every API call has a price?",
-      "link": "https://coingeek.com/what-happens-when-every-api-call-has-a-price/",
-      "source": "Coingeek",
-      "ts": 1795608000000
     }
   ]
 }
