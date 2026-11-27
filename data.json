@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T03:01:54.416Z",
+  "updated": "2026-11-27T04:10:37.564Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,29 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26706.5,
-    "chg": 6.29
+    "price": 26732.5,
+    "chg": 6.39
   },
   "altseason": 53,
   "news": [
+    {
+      "title": "운용자산 40억달러 헤지펀트 아브락사스, 일주일 새 2만1520BTC 확보",
+      "link": "https://www.blockmedia.co.kr/archives/1171346?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795750539000
+    },
+    {
+      "title": "아서 헤이즈 “연준 비둘기파 전환 없으면 주말 디지털자산 매도세 거세질 것”",
+      "link": "https://www.blockmedia.co.kr/archives/1171321?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795749331000
+    },
+    {
+      "title": "英 헤지펀드 QRT, 20억달러 크립토 펀드 주력 펀드에 흡수 -블룸버그",
+      "link": "https://www.blockmedia.co.kr/archives/1171319?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795748518000
+    },
     {
       "title": "히바치, 전통 외환시장과 디지털자산 거래 인프라 결합 나선다",
       "link": "https://www.blockmedia.co.kr/archives/1171339?utm_source=general&utm_medium=rss",
@@ -41,24 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171261?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795740447000
-    },
-    {
-      "title": "[개장시황] 코스피, 증안펀드 기대 속 상승 출발…코스닥 2%대↑",
-      "link": "https://www.blockmedia.co.kr/archives/1171266?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795738541000
-    },
-    {
-      "title": "[코인시황] 비트코인, 美 추수감사절 휴장 속 6만달러대 강보합…매수세 회복은 아직",
-      "link": "https://www.blockmedia.co.kr/archives/1171256?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795735939000
-    },
-    {
-      "title": "비트코인 캐도 손해…채굴원가 8만6000달러, 시장 가격은 6만달러",
-      "link": "https://www.blockmedia.co.kr/archives/1171254?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795733796000
     },
     {
       "title": "Utah drops Kalshi criminal charges but NYC’s had enough",
