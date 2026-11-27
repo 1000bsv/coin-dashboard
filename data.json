@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T22:36:07.733Z",
+  "updated": "2026-11-27T23:31:57.715Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -10,8 +10,20 @@
     "price": 26765,
     "chg": -0.16
   },
-  "altseason": 61,
+  "altseason": 57,
   "news": [
+    {
+      "title": "비트코인 지갑 추적 취약점 발견…30회 실험서 모두 식별",
+      "link": "https://www.blockmedia.co.kr/archives/1171675?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795820863000
+    },
+    {
+      "title": "블랙웰 중국 데이터센터서 확인…미국 규제 시험대(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1171673?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795819095000
+    },
     {
       "title": "일론 머스크 “그로크 봇으로 회사 통째로 창업 가능”…기업용 AI 시장 격돌 예고",
       "link": "https://www.blockmedia.co.kr/archives/1171667?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171654?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795811884000
-    },
-    {
-      "title": "한·중·일·아세안, 스테이블코인 규제·현지통화 결제 논의 가속화",
-      "link": "https://www.blockmedia.co.kr/archives/1171652?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795810714000
-    },
-    {
-      "title": "블랙록 디지털자산가치 11월에만 223억달러 증발… “하락장 속 31% 급감”(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1171648?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795809847000
     },
     {
       "title": "ECB eyes tokenized collateral amid stricter Russia sanctions",
