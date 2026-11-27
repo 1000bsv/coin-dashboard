@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T15:47:50.309Z",
+  "updated": "2026-11-27T16:54:59.443Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26545.75,
-    "chg": -0.98
+    "price": 26614.25,
+    "chg": -0.72
   },
   "altseason": 57,
   "news": [
+    {
+      "title": "XRP 연내 2달러 회복 확률 5%…2027년 말도 23% 그쳐",
+      "link": "https://www.blockmedia.co.kr/archives/1171610?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795797198000
+    },
     {
       "title": "골드만 “다음 주 증시 1000억달러 자동 매도 폭탄” 경고(종합)",
       "link": "https://www.blockmedia.co.kr/archives/1171594?utm_source=general&utm_medium=rss",
@@ -59,12 +65,6 @@
       "link": "https://coingeek.com/ecb-eyes-tokenized-collateral-amid-stricter-russia-sanctions/",
       "source": "Coingeek",
       "ts": 1795780800000
-    },
-    {
-      "title": "비트코인 반등 열쇠는 엔비디아?…드비어 CEO “AI주 살아나면 빠르게 뛸 것”",
-      "link": "https://www.blockmedia.co.kr/archives/1171342?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795779035000
     },
     {
       "title": "Ukraine passes crypto law as SNB, World Bank expand trials",
