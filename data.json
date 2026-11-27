@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T17:45:26.141Z",
+  "updated": "2026-11-27T18:34:53.529Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26638.75,
-    "chg": -0.63
+    "price": 26765,
+    "chg": -0.16
   },
   "altseason": 57,
   "news": [
+    {
+      "title": "[뉴욕증시 마감] AI 기술주 반등에 일제히 상승…다우 592포인트↑",
+      "link": "https://www.blockmedia.co.kr/archives/1171623?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795803291000
+    },
+    {
+      "title": "[뉴욕 코인시황] 증시 상승에도 디지털자산 하락… “BTC 반등은 숏스퀴즈 착시”",
+      "link": "https://www.blockmedia.co.kr/archives/1171620?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795802009000
+    },
     {
       "title": "XRP 연내 2달러 회복 확률 5%…2027년 말도 23% 그쳐",
       "link": "https://www.blockmedia.co.kr/archives/1171610?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171549?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795785605000
-    },
-    {
-      "title": "비트코인 6만1000달러 회복에도 데드크로스 경고",
-      "link": "https://www.blockmedia.co.kr/archives/1171547?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795784952000
-    },
-    {
-      "title": "JP모건 “비트코인 ‘항복’ 신호 포착”⋯ETF 자금 이탈에 미국 규제 갈등까지",
-      "link": "https://www.blockmedia.co.kr/archives/1171371?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795782606000
     },
     {
       "title": "ECB eyes tokenized collateral amid stricter Russia sanctions",
