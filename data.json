@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T21:35:18.003Z",
+  "updated": "2026-11-27T22:36:07.733Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -10,8 +10,20 @@
     "price": 26765,
     "chg": -0.16
   },
-  "altseason": 57,
+  "altseason": 61,
   "news": [
+    {
+      "title": "일론 머스크 “그로크 봇으로 회사 통째로 창업 가능”…기업용 AI 시장 격돌 예고",
+      "link": "https://www.blockmedia.co.kr/archives/1171667?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795816258000
+    },
+    {
+      "title": "CZ “BTC 6만달러도 과거 기준 양호…바닥 근접 기대”",
+      "link": "https://www.blockmedia.co.kr/archives/1171665?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795815340000
+    },
     {
       "title": "미 수출통제 뚫린 엔비디아… ‘블랙웰’ 중국 상하이서 포착-블룸버그",
       "link": "https://www.blockmedia.co.kr/archives/1171663?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171648?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795809847000
-    },
-    {
-      "title": "“USDT 공급 감소 시 BTC 9.5% 하락”… 유동성 위축 경고",
-      "link": "https://www.blockmedia.co.kr/archives/1171645?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795808169000
-    },
-    {
-      "title": "중국, 국가 블록체인 기반 ‘디지털 신원’ 내년 3월 도입",
-      "link": "https://www.blockmedia.co.kr/archives/1171641?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795807672000
     },
     {
       "title": "ECB eyes tokenized collateral amid stricter Russia sanctions",
