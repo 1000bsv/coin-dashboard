@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T19:39:55.408Z",
+  "updated": "2026-11-27T20:32:58.030Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -10,8 +10,20 @@
     "price": 26765,
     "chg": -0.16
   },
-  "altseason": 55,
+  "altseason": 57,
   "news": [
+    {
+      "title": "한·중·일·아세안, 스테이블코인 규제·현지통화 결제 논의 가속화",
+      "link": "https://www.blockmedia.co.kr/archives/1171652?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795810714000
+    },
+    {
+      "title": "블랙록 디지털자산가치 11월에만 223억달러 증발… “하락장 속 31% 급감”(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1171648?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795809847000
+    },
     {
       "title": "“USDT 공급 감소 시 BTC 9.5% 하락”… 유동성 위축 경고",
       "link": "https://www.blockmedia.co.kr/archives/1171645?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171571?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795806092000
-    },
-    {
-      "title": "[뉴욕 금·채권·달러] 금리·달러 동반 상승…금값은 저가 매수세에 반등",
-      "link": "https://www.blockmedia.co.kr/archives/1171633?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795805083000
-    },
-    {
-      "title": "[뉴욕증시 마감] AI 기술주 반등에 일제히 상승…다우 592포인트↑",
-      "link": "https://www.blockmedia.co.kr/archives/1171623?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795803291000
     },
     {
       "title": "ECB eyes tokenized collateral amid stricter Russia sanctions",
