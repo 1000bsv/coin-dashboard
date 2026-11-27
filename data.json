@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T10:44:28.016Z",
+  "updated": "2026-11-27T11:37:35.004Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,17 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26775.75,
-    "chg": 6.56
+    "price": 26708.75,
+    "chg": 6.3
   },
   "altseason": 55,
   "news": [
+    {
+      "title": "비트코인 반등 열쇠는 엔비디아?…드비어 CEO “AI주 살아나면 빠르게 뛸 것”",
+      "link": "https://www.blockmedia.co.kr/archives/1171342?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795779035000
+    },
     {
       "title": "수수료만 내면 트론 34억원이 내 손에?…무심코 돈 보냈다가 큰일 나는 이유",
       "link": "https://www.blockmedia.co.kr/archives/1171302?utm_source=general&utm_medium=rss",
@@ -65,12 +71,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171410?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795762845000
-    },
-    {
-      "title": "[마감시황] 코스피, 외인 1조원 순매수에 4%대 급등…코스닥도 700선 회복",
-      "link": "https://www.blockmedia.co.kr/archives/1171445?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795762015000
     },
     {
       "title": "Coins.ph limits digital currency transfers to regulated exchanges",
