@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:37:35.004Z",
+  "updated": "2026-11-27T12:41:24.981Z",
   "fng": {
     "value": 12,
     "label": "Extreme Fear",
@@ -7,11 +7,23 @@
     "prev": 11
   },
   "nasdaq": {
-    "price": 26708.75,
-    "chg": 6.3
+    "price": 26650.5,
+    "chg": 6.07
   },
   "altseason": 55,
   "news": [
+    {
+      "title": "JP모건 “비트코인 ‘항복’ 신호 포착”⋯ETF 자금 이탈에 미국 규제 갈등까지",
+      "link": "https://www.blockmedia.co.kr/archives/1171371?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795782606000
+    },
+    {
+      "title": "ECB eyes tokenized collateral amid stricter Russia sanctions",
+      "link": "https://coingeek.com/ecb-eyes-tokenized-collateral-amid-stricter-russia-sanctions/",
+      "source": "Coingeek",
+      "ts": 1795780800000
+    },
     {
       "title": "비트코인 반등 열쇠는 엔비디아?…드비어 CEO “AI주 살아나면 빠르게 뛸 것”",
       "link": "https://www.blockmedia.co.kr/archives/1171342?utm_source=general&utm_medium=rss",
@@ -67,12 +79,6 @@
       "ts": 1795764616000
     },
     {
-      "title": "‘빅쇼트’ 마이클 버리, AI 부채 위험성 보고서 공유하며 “반드시 읽어보시라”",
-      "link": "https://www.blockmedia.co.kr/archives/1171410?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795762845000
-    },
-    {
       "title": "Coins.ph limits digital currency transfers to regulated exchanges",
       "link": "https://coingeek.com/coins-ph-limits-digital-currency-transfers-to-regulated-exchanges/",
       "source": "Coingeek",
@@ -101,12 +107,6 @@
       "link": "https://coingeek.com/from-london-to-hong-kong-regulators-are-tightening-crypto-rules/",
       "source": "Coingeek",
       "ts": 1795672800000
-    },
-    {
-      "title": "CleanSpark loses $1B in ‘transitional’ year; BitFuFu not giving up",
-      "link": "https://coingeek.com/cleanspark-loses-1b-in-transitional-year-bitfufu-not-giving-up/",
-      "source": "Coingeek",
-      "ts": 1795615200000
     }
   ]
 }
