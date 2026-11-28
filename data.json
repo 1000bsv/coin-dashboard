@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:58:26.832Z",
+  "updated": "2026-11-28T02:45:54.549Z",
   "fng": {
     "value": 10,
     "label": "Extreme Fear",
@@ -12,6 +12,12 @@
   },
   "altseason": 55,
   "news": [
+    {
+      "title": "S&P500, 추수감사절 주간 5.6% 급등…2008년 이후 최대",
+      "link": "https://www.blockmedia.co.kr/archives/1171710?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795832348000
+    },
     {
       "title": "러시아 2위 은행 VTB 비트코인 판매…미국 제재 속 거래 확대",
       "link": "https://www.blockmedia.co.kr/archives/1171703?utm_source=general&utm_medium=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171665?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795815340000
-    },
-    {
-      "title": "미 수출통제 뚫린 엔비디아… ‘블랙웰’ 중국 상하이서 포착-블룸버그",
-      "link": "https://www.blockmedia.co.kr/archives/1171663?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795814533000
     },
     {
       "title": "ECB eyes tokenized collateral amid stricter Russia sanctions",
