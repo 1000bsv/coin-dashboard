@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T03:43:38.160Z",
+  "updated": "2026-11-28T04:43:28.815Z",
   "fng": {
     "value": 10,
     "label": "Extreme Fear",
@@ -12,6 +12,18 @@
   },
   "altseason": 55,
   "news": [
+    {
+      "title": "비트코인, 6만달러 재돌파…변동성 장세 지속",
+      "link": "https://www.blockmedia.co.kr/archives/1171730?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795838981000
+    },
+    {
+      "title": "한·중·일·아세안, 국경 간 디지털결제 실무그룹 꾸린다(종합)",
+      "link": "https://www.blockmedia.co.kr/archives/1171727?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795838610000
+    },
     {
       "title": "비탈릭, “설계도 공개 가능한 반도체 칩 개발해야”…하드웨어 지갑 해킹에 ‘오픈소스 반도체’ 강조",
       "link": "https://www.blockmedia.co.kr/archives/1171408?utm_source=general&utm_medium=rss",
@@ -47,18 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171676?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795822979000
-    },
-    {
-      "title": "비트코인 지갑 추적 취약점 발견…30회 실험서 모두 식별",
-      "link": "https://www.blockmedia.co.kr/archives/1171675?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795820863000
-    },
-    {
-      "title": "블랙웰 중국 데이터센터서 확인…미국 규제 시험대(종합)",
-      "link": "https://www.blockmedia.co.kr/archives/1171673?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795819095000
     },
     {
       "title": "ECB eyes tokenized collateral amid stricter Russia sanctions",
