@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T09:32:31.088Z",
+  "updated": "2026-11-28T10:32:50.200Z",
   "fng": {
     "value": 10,
     "label": "Extreme Fear",
@@ -12,6 +12,12 @@
   },
   "altseason": 57,
   "news": [
+    {
+      "title": "[코생지] 하락장세 속 낙폭 줄인 알트코인⋯매수세 회복 관건은 12월 FOMC",
+      "link": "https://www.blockmedia.co.kr/archives/1169790?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795858338000
+    },
     {
       "title": "비트코인, 6만달러 재돌파…변동성 장세 지속",
       "link": "https://www.blockmedia.co.kr/archives/1171730?utm_source=general&utm_medium=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171697?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795826173000
-    },
-    {
-      "title": "이더리움 적립식 투자도 손실…5년간 23.5% 마이너스",
-      "link": "https://www.blockmedia.co.kr/archives/1171676?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795822979000
     },
     {
       "title": "ECB eyes tokenized collateral amid stricter Russia sanctions",
