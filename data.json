@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T23:31:57.715Z",
+  "updated": "2026-11-28T00:31:23.854Z",
   "fng": {
-    "value": 12,
+    "value": 10,
     "label": "Extreme Fear",
-    "ts": 1795737600000,
-    "prev": 11
+    "ts": 1795824000000,
+    "prev": 12
   },
   "nasdaq": {
     "price": 26765,
@@ -12,6 +12,12 @@
   },
   "altseason": 57,
   "news": [
+    {
+      "title": "이더리움 적립식 투자도 손실…5년간 23.5% 마이너스",
+      "link": "https://www.blockmedia.co.kr/archives/1171676?utm_source=general&utm_medium=rss",
+      "source": "블록미디어",
+      "ts": 1795822979000
+    },
     {
       "title": "비트코인 지갑 추적 취약점 발견…30회 실험서 모두 식별",
       "link": "https://www.blockmedia.co.kr/archives/1171675?utm_source=general&utm_medium=rss",
@@ -53,12 +59,6 @@
       "link": "https://www.blockmedia.co.kr/archives/1171658?utm_source=general&utm_medium=rss",
       "source": "블록미디어",
       "ts": 1795812836000
-    },
-    {
-      "title": "스페인, 법원 명령 없이 디지털자산 계좌 동결…2027년 시행",
-      "link": "https://www.blockmedia.co.kr/archives/1171654?utm_source=general&utm_medium=rss",
-      "source": "블록미디어",
-      "ts": 1795811884000
     },
     {
       "title": "ECB eyes tokenized collateral amid stricter Russia sanctions",
